@@ -1,0 +1,1047 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nonprofit Packet",
+    "section": "",
+    "text": "1 Overview\nThis Quarto project assembles the lab direction materials and the current nonprofit formation and IRS submission drafts into HTML and PDF outputs.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Nonprofit Packet</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#reports",
+    "href": "index.html#reports",
+    "title": "Nonprofit Packet",
+    "section": "1.1 Reports",
+    "text": "1.1 Reports\n\ndirection_and_mission.qmd: strategic direction, mission, and research agenda\nsubmissions/: draft formation and IRS submission documents",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Nonprofit Packet</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#source-folders",
+    "href": "index.html#source-folders",
+    "title": "Nonprofit Packet",
+    "section": "1.2 Source folders",
+    "text": "1.2 Source folders\n\ndocuments/: background research and internal reference notes, not included in the rendered book\nsubmissions/: filing-ready draft materials",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Nonprofit Packet</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#rendering",
+    "href": "index.html#rendering",
+    "title": "Nonprofit Packet",
+    "section": "1.3 Rendering",
+    "text": "1.3 Rendering\nRender the full book:\nquarto render\nOutputs are written to _output/.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Nonprofit Packet</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html",
+    "href": "direction_and_mission.html",
+    "title": "2  Direction and Mission",
+    "section": "",
+    "text": "2.1 Working identity\nEconomics of Generative AI Research Lab is a small independent educational and scientific research institute focused on the economic consequences of large language models and the emerging agent economy.\nPublic-facing brand:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#working-identity",
+    "href": "direction_and_mission.html#working-identity",
+    "title": "2  Direction and Mission",
+    "section": "",
+    "text": "gecon.ai",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#mission",
+    "href": "direction_and_mission.html#mission",
+    "title": "2  Direction and Mission",
+    "section": "2.2 Mission",
+    "text": "2.2 Mission\nThe mission of the lab is to advance public understanding of how large language models and AI agents affect economic behavior, institutions, and decision-making. The lab conducts independent educational and scientific research on the emerging agent economy, including how AI agents behave, how they interact with one another, and how they interact with humans as they become increasingly embedded in modern economic life.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#vision",
+    "href": "direction_and_mission.html#vision",
+    "title": "2  Direction and Mission",
+    "section": "2.3 Vision",
+    "text": "2.3 Vision\nThe long-run vision is to help build a rigorous field of research around the economics of generative AI and AI agents. The lab aims to become a trusted source of public-interest research, methodology, and evidence in an area that is expanding rapidly but still lacks shared standards, reproducible methods, and durable conceptual frameworks.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#problem-statement",
+    "href": "direction_and_mission.html#problem-statement",
+    "title": "2  Direction and Mission",
+    "section": "2.4 Problem statement",
+    "text": "2.4 Problem statement\nLarge language models and agentic systems are beginning to participate in economic processes in ways that are consequential but poorly understood. They shape decisions, generate information, mediate interactions, and may increasingly act on behalf of users or organizations. As a result, they are not only tools of production and analysis, but also objects of economic study.\nThe current field is moving quickly, but several problems remain:\n\nthe behavior of agents is often treated as stable or generic when it may vary substantially across architectures, prompting regimes, and deployment contexts;\nthe economic preferences and decision-making patterns of agents are still poorly understood;\nagent-to-agent interaction may generate emergent system-level outcomes that are not obvious from studying single models in isolation;\nhuman-agent interaction raises questions about trust, perception, bias, and representation;\nmethodological standards for reproducibility, benchmarking, and interpretation remain weak in many parts of the literature.\n\nThe lab exists to address these gaps through rigorous, public-facing research.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#why-a-nonprofit",
+    "href": "direction_and_mission.html#why-a-nonprofit",
+    "title": "2  Direction and Mission",
+    "section": "2.5 Why a nonprofit",
+    "text": "2.5 Why a nonprofit\nThe nonprofit structure is appropriate because the lab is intended to produce public-benefit research rather than private commercial products or private-client services. Its goal is to generate knowledge, improve research quality, train students through participation in research, and contribute methods, benchmarks, datasets, and findings that are broadly useful to researchers, educators, policymakers, and the public.\nThe lab is not intended to operate as:\n\na consulting business;\na software product company;\na startup incubator;\na paid private-client research shop.\n\nThe nonprofit form supports independence, public dissemination, student engagement, and credibility with academic, philanthropic, and public-interest funders.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#core-research-areas",
+    "href": "direction_and_mission.html#core-research-areas",
+    "title": "2  Direction and Mission",
+    "section": "2.6 Core research areas",
+    "text": "2.6 Core research areas\n\n2.6.1 1. Agents as objects of research\nThe lab studies AI agents themselves as objects of inquiry. This includes:\n\neconomic preferences;\ndecision-making processes;\nrevealed versus stated preferences;\ninherent and contextual biases;\ndifferences across architectures and prompting conditions.\n\nThis area is motivated by the idea that agents may display systematic patterns of choice and bias that must be understood before they can be used reliably in research or economic settings.\n\n\n2.6.2 2. Agent-to-agent interaction\nThe lab studies how AI agents behave in agentic economies and multi-agent systems. This includes:\n\nnegotiation;\ncoordination;\ncompetition;\nmarket-like interaction;\nprice formation and other emergent outcomes.\n\nThe focus is not only on individual agent behavior, but also on how interaction produces system-level effects.\n\n\n2.6.3 3. Human-agent interaction\nThe lab studies how humans perceive, evaluate, trust, and respond to AI agents, especially where the agent economy overlaps with the human economy. This includes:\n\nacceptance of AI systems in decision environments;\nperception of AI-generated content;\ntrust in AI versus human advisors;\nrepresentational and demographic concerns in how people respond to agents.\n\nThis line of work is especially important as AI systems become more visible in labor, communication, and service settings.\n\n\n2.6.4 4. Methodology, benchmarks, and research quality\nThe lab develops rigorous methodologies for studying agents and human-agent systems in a field that is growing quickly but often lacks consistency and reproducibility. This includes:\n\nbenchmark design;\nexperimental methodology;\nreplication and reproducibility standards;\nbetter ways to identify and interpret bias;\nmethods for comparing agent behavior to human behavior.\n\nThis work is central to the lab’s public-benefit value. The lab is not only producing findings, but helping define how the field should study these questions well.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#who-the-lab-serves",
+    "href": "direction_and_mission.html#who-the-lab-serves",
+    "title": "2  Direction and Mission",
+    "section": "2.7 Who the lab serves",
+    "text": "2.7 Who the lab serves\nThe lab’s work is intended to benefit:\n\nresearchers in economics, behavioral science, AI, and adjacent fields;\nstudents who want to participate in rigorous AI-related research;\npolicymakers and institutions trying to understand the social and economic effects of AI agents;\njournalists, educators, and public audiences seeking credible research and interpretation;\nphilanthropic and public-interest organizations supporting responsible AI research.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#what-the-lab-produces",
+    "href": "direction_and_mission.html#what-the-lab-produces",
+    "title": "2  Direction and Mission",
+    "section": "2.8 What the lab produces",
+    "text": "2.8 What the lab produces\nThe lab is expected to produce:\n\nacademic papers and working papers;\npublic research summaries and explainers;\ndatasets and benchmarks where appropriate;\nmethodological notes and reproducibility guidance;\nlectures, workshops, and public events;\nstudent-engaged research opportunities.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#year-1-direction",
+    "href": "direction_and_mission.html#year-1-direction",
+    "title": "2  Direction and Mission",
+    "section": "2.9 Year 1 direction",
+    "text": "2.9 Year 1 direction\nThe lab’s first year should be framed around a focused and credible initial agenda rather than a broad platform.\n\n2.9.1 Priority 1. Publish current research\nThe lab aims to revise, submit, and publicly disseminate existing work, including:\n\nModel Personality Trumps Persona Prompting: Evidence from Controlled Prompting Experiments\nAI or Not? Human Inability to Reliably Detect AI-Generated Content\n\nThese projects help establish the lab’s credibility and illustrate its interest in both model behavior and human perception.\n\n\n2.9.2 Priority 2. Complete the AI-or-Not pilot and experimental preparation\nThe lab aims to complete the AI-or-Not pilot and secure IRB approval for the related experiment. This creates a concrete path toward human-subjects research on perception, trust, and human interaction with AI-generated outputs.\n\n\n2.9.3 Priority 3. Define the research agenda on LLMs as economic agents\nThe lab aims to develop a structured research agenda on LLMs as economic agents, including methodology, benchmarks, and questions around preferences, bias, and agent-to-agent behavior.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#representative-topics-and-paper-directions",
+    "href": "direction_and_mission.html#representative-topics-and-paper-directions",
+    "title": "2  Direction and Mission",
+    "section": "2.10 Representative topics and paper directions",
+    "text": "2.10 Representative topics and paper directions\n\n2.10.1 Survey / human versus LLM comparison\n\nComparing Survey Design Bias Effects Across Humans and Language Models\nWho Do Language Models Represent? Evidence from Human-LLM Survey Response Comparisons\nDo Language Models Exhibit Gender, Race, and Other Social Biases by Default?\nLog Probabilities as a Tool for Inferring Preferences in Language Models\n\n\n\n2.10.2 Methodology / reproducibility\n\nReproducibility in LLM-Based Studies: The Effects of Batching, Sampling, and Inference Configuration\nTowards Reproducibility in LLM Research: A Multi-Paper Replication Study and Experimental Guidelines\n\n\n\n2.10.3 Preferences and decision theory\n\nExtracting Revealed vs Stated Preferences in Language Models\nPreference Inference in LLMs Using Choice and Log Probability Signals\n\n\n\n2.10.4 Agent-agent systems\n\nPrice Formation in Multi-Agent Language Model Markets\nEvolution of Strategy and Knowledge in Repeated Negotiation Games with Language Models\n\n\n\n2.10.5 Human-agent interaction\n\n“Talk to a Human”: Acceptance of AI Agents in Call Centers Across System Architectures\nTrust in AI vs Human Advisors: Evidence from Controlled Decision Tasks\n\n\n\n2.10.6 Misinformation and development\n\nSusceptibility to AI-Generated Misinformation in Low-Information Environments: Evidence from Text, Image, and Video Stimuli\nDetection Gaps and Belief Formation: Effects of AI-Generated Political Content on User Perceptions\n\n\n\n2.10.7 Culture / language shift\n\nAI Speak: Convergence of Human Writing Toward Language Model Style in SAT, GRE, and GMAT Essays",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#collaboration-strategy",
+    "href": "direction_and_mission.html#collaboration-strategy",
+    "title": "2  Direction and Mission",
+    "section": "2.11 Collaboration strategy",
+    "text": "2.11 Collaboration strategy\nThe lab should collaborate with both academia and industry, but it should be careful about how those collaborations are framed.\n\n2.11.1 Academic collaborations\nAcademic collaborations are a natural fit because they support:\n\nrigor;\npeer review;\nstudent involvement;\ndissemination through established research channels.\n\n\n\n2.11.2 Industry collaborations\nIndustry collaboration may be valuable because frontier knowledge about agentic systems is often concentrated inside companies building and deploying them. Such collaborations can improve empirical relevance and access to real-world contexts.\nHowever, the lab should state clearly that:\n\ncollaborations must preserve research independence;\nprivate firms should not control conclusions or publication decisions;\nthe lab is not conducting paid private-client research;\nsponsorship should support public-interest research rather than private commercial advantage.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#student-engagement",
+    "href": "direction_and_mission.html#student-engagement",
+    "title": "2  Direction and Mission",
+    "section": "2.12 Student engagement",
+    "text": "2.12 Student engagement\nStudent participation should be treated as a core feature, not a side benefit.\nStudents may participate as:\n\nresearch assistants;\nfellows;\nvolunteers;\nworkshop participants;\ncoauthors where appropriate.\n\nThis strengthens the lab’s educational mission and provides a clear answer to why the work belongs in a nonprofit setting.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#fundraising-narrative",
+    "href": "direction_and_mission.html#fundraising-narrative",
+    "title": "2  Direction and Mission",
+    "section": "2.13 Fundraising narrative",
+    "text": "2.13 Fundraising narrative\nThe strongest fundraising case is not simply that AI is important. It is that the emerging agent economy is economically significant, methodologically underdeveloped, and in need of independent public-interest research.\nThe lab’s funding narrative should emphasize:\n\nindependent research on a rapidly growing and socially important domain;\nrigorous methodology in an area where standards are still forming;\neducational value through student engagement;\npublic dissemination of findings;\nthe need for noncommercial, credible analysis of systems with broad economic effects.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#budget-framing",
+    "href": "direction_and_mission.html#budget-framing",
+    "title": "2  Direction and Mission",
+    "section": "2.14 Budget framing",
+    "text": "2.14 Budget framing\nThe lean budget structure can be described in three tiers.\n\n2.14.1 Minimum: proof of concept lab\n\n$20k-$40k per year\nfocused on 1 to 2 strong studies\nheavy use of credits, preprints, and founder-led execution\n\n\n\n2.14.2 Good: sustainable research engine\n\n$40k-$75k per year\nsupports 2 to 4 papers per year\nenables multiple studies and regular dissemination\n\n\n\n2.14.3 Excellent: high-output lean lab\n\n$75k-$120k per year\nsupports larger experiments, more visible events, and stronger field presence\n\nThe major funding needs are:\n\nhuman experiments;\ncompute;\npublishing;\ntravel;\nworkshops and events;\nlight research support or contractors where necessary.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#short-public-facing-version",
+    "href": "direction_and_mission.html#short-public-facing-version",
+    "title": "2  Direction and Mission",
+    "section": "2.15 Short public-facing version",
+    "text": "2.15 Short public-facing version\nEconomics of Generative AI Research Lab studies how large language models and AI agents affect economic behavior, decision-making, and institutions. We conduct independent educational and scientific research on agent preferences, agent-to-agent systems, and human-agent interaction, while developing rigorous methods, datasets, and benchmarks for a rapidly emerging field.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#short-donor-facing-version",
+    "href": "direction_and_mission.html#short-donor-facing-version",
+    "title": "2  Direction and Mission",
+    "section": "2.16 Short donor-facing version",
+    "text": "2.16 Short donor-facing version\nWe are building an independent nonprofit research lab focused on the economics of generative AI and the emerging agent economy. Our goal is to produce rigorous, public-interest research on how AI agents behave, how they interact with one another and with humans, and how these interactions will shape modern economies. We also aim to strengthen research quality in a fast-growing field by developing methods, benchmarks, and student-engaged research programs.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "direction_and_mission.html#open-strategic-questions",
+    "href": "direction_and_mission.html#open-strategic-questions",
+    "title": "2  Direction and Mission",
+    "section": "2.17 Open strategic questions",
+    "text": "2.17 Open strategic questions\nThese questions still need sharper answers over time:\n\nHow broad should the lab remain versus specializing early in LLMs as economic agents?\nHow much of the portfolio should be human-subjects work versus agent simulation work?\nHow should industry collaboration be structured without creating private-benefit concerns?\nWhat is the clearest public-charity funding story in the first 2 years?\nWhich outputs should define the lab most strongly: papers, benchmarks, public education, or field-building events?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Direction and Mission</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/03_draft_articles_ca_501c3.html",
+    "href": "submissions/state/03_draft_articles_ca_501c3.html",
+    "title": "3  California Articles of Incorporation for a 501(c)(3)",
+    "section": "",
+    "text": "3.1 Working legal name\nThis is a drafting aid for the California Secretary of State ARTS-PB-501(c)(3) filing.\nEconomics of Generative AI Research Lab",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>California Articles of Incorporation for a 501(c)(3)</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/03_draft_articles_ca_501c3.html#draft-articles-text",
+    "href": "submissions/state/03_draft_articles_ca_501c3.html#draft-articles-text",
+    "title": "3  California Articles of Incorporation for a 501(c)(3)",
+    "section": "3.2 Draft articles text",
+    "text": "3.2 Draft articles text\n\n3.2.1 Article 1. Name\nThe name of this corporation is:\nEconomics of Generative AI Research Lab\n\n\n3.2.2 Article 2. Type\nThis corporation is a nonprofit public benefit corporation and is not organized for the private gain of any person. It is organized under the California Nonprofit Public Benefit Corporation Law for public, charitable, educational, and scientific purposes.\n\n\n3.2.3 Article 3. Specific purpose\nThis corporation is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code.\nThe specific purposes of this corporation include conducting and disseminating independent research on the economics of generative artificial intelligence, large language models, and AI agents; studying the emerging agent economy, including agent preferences, decision-making, biases, agent-to-agent interaction, and human-agent interaction; publishing public-interest research, datasets, benchmarks, educational materials, and policy analysis; developing and sharing research methodologies relevant to this novel and rapidly developing field; providing students with opportunities to participate in the research process and to study artificial intelligence rigorously; supporting conferences, seminars, workshops, and collaborations that advance public understanding of artificial intelligence and economics; and making distributions to organizations that qualify as exempt organizations under Section 501(c)(3) of the Internal Revenue Code.\n\n\n3.2.4 Article 4. Restrictions\nNo part of the net earnings of this corporation shall inure to the benefit of, or be distributable to, its directors, officers, or other private persons, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of its exempt purposes.\nNo substantial part of the activities of this corporation shall consist of carrying on propaganda, or otherwise attempting to influence legislation, except as permitted under Section 501(c)(3) of the Internal Revenue Code, and this corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.\nNotwithstanding any other provision of these Articles, this corporation shall not carry on any activities not permitted to be carried on by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code.\n\n\n3.2.5 Article 5. Dissolution\nUpon the dissolution of this corporation, its assets remaining after payment, or provision for payment, of all debts and liabilities of this corporation shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or shall be distributed to the federal government, or to a state or local government, for a public purpose.\n\n\n3.2.6 Article 6. Initial street address\nThe initial street address of this corporation is:\n320B 2nd Ave, San Francisco, California 94118\n\n\n3.2.7 Article 7. Initial mailing address\nThe initial mailing address of this corporation, if different from the street address, is:\nSame as above\n\n\n3.2.8 Article 8. Initial agent for service of process\nThe name and California street address of the corporation’s initial agent for service of process are:\nName: Nikita Tkachenko Address: 320B 2nd Ave, San Francisco, California 94118",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>California Articles of Incorporation for a 501(c)(3)</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/03_draft_articles_ca_501c3.html#filing-references",
+    "href": "submissions/state/03_draft_articles_ca_501c3.html#filing-references",
+    "title": "3  California Articles of Incorporation for a 501(c)(3)",
+    "section": "3.3 Filing references",
+    "text": "3.3 Filing references\n\nCalifornia Secretary of State ARTS-PB form: https://bpd.cdn.sos.ca.gov/corp/pdf/articles/arts-pb.pdf\nCalifornia Corporations Code section 5130: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5130.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>California Articles of Incorporation for a 501(c)(3)</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/04_incorporator_statement.html",
+    "href": "submissions/state/04_incorporator_statement.html",
+    "title": "4  Incorporator Statement",
+    "section": "",
+    "text": "4.1 Purpose\nThis document is typically signed after the articles are filed. It appoints the initial board if the directors are not already named in the articles.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Incorporator Statement</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/04_incorporator_statement.html#draft",
+    "href": "submissions/state/04_incorporator_statement.html#draft",
+    "title": "4  Incorporator Statement",
+    "section": "4.2 Draft",
+    "text": "4.2 Draft\nIncorporator Statement of Economics of Generative AI Research Lab\nI, the undersigned, am the incorporator of Economics of Generative AI Research Lab, a California nonprofit public benefit corporation.\nI hereby appoint the following persons to serve as the initial directors of the corporation, to hold office until the first meeting of the Board of Directors or until their successors are elected and qualified:\n\nNikita Tkachenko\nJake Cosgrove\nAlessandsa Cassar\n\nExecuted on [DATE].\n__________________________________\nNikita Tkachenko\nIncorporator",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Incorporator Statement</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/05_draft_initial_board_consent.html",
+    "href": "submissions/state/05_draft_initial_board_consent.html",
+    "title": "5  Initial Board Action by Unanimous Written Consent",
+    "section": "",
+    "text": "5.1 Draft\nUnanimous Written Consent of the Board of Directors of Economics of Generative AI Research Lab\nThe undersigned, constituting all of the directors of Economics of Generative AI Research Lab, a California nonprofit public benefit corporation, hereby adopt the following resolutions by unanimous written consent:",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Initial Board Action by Unanimous Written Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/05_draft_initial_board_consent.html#draft",
+    "href": "submissions/state/05_draft_initial_board_consent.html#draft",
+    "title": "5  Initial Board Action by Unanimous Written Consent",
+    "section": "",
+    "text": "5.1.1 1. Ratification of formation\nRESOLVED, that the filing of the Articles of Incorporation is ratified and approved.\n\n\n5.1.2 2. Bylaws\nRESOLVED, that the Bylaws presented to the Board are adopted as the Bylaws of the corporation, to be placed in the corporate records book.\n\n\n5.1.3 3. Principal office\nRESOLVED, that the principal office of the corporation shall be located at 320B 2nd Ave, San Francisco, California 94118, or such other location as the Board may later approve.\n\n\n5.1.4 4. Fiscal year\nRESOLVED, that the fiscal year of the corporation shall end on [MONTH DAY].\nRecommended default if no reason otherwise:\nDecember 31\n\n\n5.1.5 5. Election of officers\nRESOLVED, that the following persons are elected to the offices set forth opposite their names, to serve at the pleasure of the Board:\n\nPresident: Nikita Tkachenko\nSecretary: Jake Cosgrove\nTreasurer: Alessandsa Cassar\n\n\n\n5.1.6 6. Banking authority\nRESOLVED, that the officers are authorized to open one or more bank accounts in the name of the corporation and execute such documents as are required by the financial institution, subject to any further limits the Board later adopts.\n\n\n5.1.7 7. EIN and tax filings\nRESOLVED, that the officers are authorized to obtain an EIN and prepare, sign, and submit all federal, state, and local registrations, elections, and exemption filings, including IRS Form 1023 or 1023-EZ, California Form SI-100, Attorney General charitable registration materials, and FTB exemption filings.\n\n\n5.1.8 8. Conflict of interest policy\nRESOLVED, that the Conflict of Interest Policy presented to the Board is adopted, and each director and officer shall complete annual disclosures.\n\n\n5.1.9 9. Compensation review policy\nRESOLVED, that the Compensation Review Policy presented to the Board is adopted and shall govern compensation arrangements with directors, officers, key employees, and other disqualified persons.\n\n\n5.1.10 10. Records and minute book\nRESOLVED, that the Secretary is directed to maintain complete and accurate corporate records, including articles, bylaws, minutes, consents, policies, exemption filings, and annual reports.\n\n\n5.1.11 11. General authority\nRESOLVED, that the officers of the corporation are authorized to take any additional actions and execute any additional documents reasonably necessary to carry out the intent of these resolutions.\nThis consent may be executed in counterparts and electronically.\nDate: [DATE]\nDirector signatures:\n__________________________________ Nikita Tkachenko\n__________________________________ Jake Cosgrove\n__________________________________ Alessandsa Cassar",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Initial Board Action by Unanimous Written Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/08_director_officer_acknowledgment.html",
+    "href": "submissions/state/08_director_officer_acknowledgment.html",
+    "title": "6  Director and Officer Acknowledgment and Consent",
+    "section": "",
+    "text": "6.1 Draft\nDirector and Officer Acknowledgment and Consent of Economics of Generative AI Research Lab\nEach undersigned individual acknowledges and agrees as follows:",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Director and Officer Acknowledgment and Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/08_director_officer_acknowledgment.html#draft",
+    "href": "submissions/state/08_director_officer_acknowledgment.html#draft",
+    "title": "6  Director and Officer Acknowledgment and Consent",
+    "section": "",
+    "text": "The undersigned consents to serve in the role indicated below for Economics of Generative AI Research Lab, a California nonprofit public benefit corporation.\nThe undersigned has reviewed, or will review before signing final formation documents, the Articles of Incorporation, Bylaws, Conflict of Interest Policy, and initial board resolutions.\nThe undersigned understands that directors are responsible for the governance of the corporation, including oversight of mission, compliance, conflicts of interest, financial stewardship, and major organizational decisions.\nAny undersigned serving as an officer understands the responsibilities of that office, including the duties customarily associated with that office and any additional duties assigned by the Board.\nThe undersigned agrees to act in good faith, in a manner believed to be in the best interests of the corporation, and in furtherance of its educational and scientific purposes.\nThe undersigned agrees to disclose actual or potential conflicts of interest and to comply with the corporation’s governing documents and board-approved policies.\nThe undersigned understands that the corporation is intended to operate as a nonprofit organization organized exclusively for educational and scientific purposes and not as a consulting business, product business, startup, or other company-like venture.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Director and Officer Acknowledgment and Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/08_director_officer_acknowledgment.html#roles",
+    "href": "submissions/state/08_director_officer_acknowledgment.html#roles",
+    "title": "6  Director and Officer Acknowledgment and Consent",
+    "section": "6.2 Roles",
+    "text": "6.2 Roles\n\nNikita Tkachenko - Director, President\nJake Cosgrove - Director, Secretary\nAlessandsa Cassar - Director, Treasurer",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Director and Officer Acknowledgment and Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/08_director_officer_acknowledgment.html#role-summary",
+    "href": "submissions/state/08_director_officer_acknowledgment.html#role-summary",
+    "title": "6  Director and Officer Acknowledgment and Consent",
+    "section": "6.3 Role summary",
+    "text": "6.3 Role summary\n\n6.3.1 Directors\nDirectors are expected to:\n\nattend and participate in board decisions;\nreview and approve major organizational actions;\nsupport legal and ethical compliance;\nhelp protect the corporation’s mission and nonprofit status.\n\n\n\n6.3.2 President\nThe President is expected to:\n\noversee execution of board-approved actions;\nhelp coordinate the organization’s activities;\nsign documents and filings as authorized.\n\n\n\n6.3.3 Secretary\nThe Secretary is expected to:\n\nmaintain minutes and records;\nhelp ensure notices and formal records are kept properly;\nmaintain the corporation’s organizational documents.\n\n\n\n6.3.4 Treasurer\nThe Treasurer is expected to:\n\noversee basic financial recordkeeping and financial reporting;\nhelp review budgets, bank arrangements, and financial controls;\nsupport compliance with filing and financial oversight obligations.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Director and Officer Acknowledgment and Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/08_director_officer_acknowledgment.html#signatures",
+    "href": "submissions/state/08_director_officer_acknowledgment.html#signatures",
+    "title": "6  Director and Officer Acknowledgment and Consent",
+    "section": "6.4 Signatures",
+    "text": "6.4 Signatures\nDate: [DATE]\n__________________________________ Nikita Tkachenko\n__________________________________ Jake Cosgrove\n__________________________________ Alessandsa Cassar",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Director and Officer Acknowledgment and Consent</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/06_si100_information_sheet.html",
+    "href": "submissions/state/06_si100_information_sheet.html",
+    "title": "7  SI-100 information sheet",
+    "section": "",
+    "text": "7.1 Information to gather\nUse this as a prep sheet before filing the actual California SI-100.\nOfficial filing hub:",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>SI-100 information sheet</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/06_si100_information_sheet.html#information-to-gather",
+    "href": "submissions/state/06_si100_information_sheet.html#information-to-gather",
+    "title": "7  SI-100 information sheet",
+    "section": "",
+    "text": "Exact legal corporate name: Economics of Generative AI Research Lab\nCalifornia entity number: [ENTITY NUMBER AFTER FILING]\nSecretary of State file date: [DATE]\nPrincipal executive office address: 320B 2nd Ave, San Francisco, California 94118\nBusiness mailing address: 320B 2nd Ave, San Francisco, California 94118\nCalifornia street address, if different: Same as above\nChief Executive Officer name/address: Nikita Tkachenko / 320B 2nd Ave, San Francisco, California 94118\nSecretary name/address: Jake Cosgrove / 320B 2nd Ave, San Francisco, California 94118\nChief Financial Officer name/address: Alessandsa Cassar / 320B 2nd Ave, San Francisco, California 94118\nAgent for service of process: Nikita Tkachenko / 320B 2nd Ave, San Francisco, California 94118",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>SI-100 information sheet</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/06_si100_information_sheet.html#timing",
+    "href": "submissions/state/06_si100_information_sheet.html#timing",
+    "title": "7  SI-100 information sheet",
+    "section": "7.2 Timing",
+    "text": "7.2 Timing\n\nInitial filing: within 90 days after registration.\nLater filings: every 2 years in the applicable filing window.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>SI-100 information sheet</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/07_attorney_general_initial_registration_packet.html",
+    "href": "submissions/state/07_attorney_general_initial_registration_packet.html",
+    "title": "8  California Attorney General initial registration packet",
+    "section": "",
+    "text": "8.1 Packet checklist\nOfficial page:",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>California Attorney General initial registration packet</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/07_attorney_general_initial_registration_packet.html#packet-checklist",
+    "href": "submissions/state/07_attorney_general_initial_registration_packet.html#packet-checklist",
+    "title": "8  California Attorney General initial registration packet",
+    "section": "",
+    "text": "Initial registration filing through the Attorney General portal or paper packet\nFiled articles of incorporation\nCurrent bylaws\nEIN confirmation\nIRS Form 1023 or 1023-EZ copy, if already filed\nIRS determination letter, if already received\nRegistration fee shown on the AG page",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>California Attorney General initial registration packet</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/state/07_attorney_general_initial_registration_packet.html#cover-note-template",
+    "href": "submissions/state/07_attorney_general_initial_registration_packet.html#cover-note-template",
+    "title": "8  California Attorney General initial registration packet",
+    "section": "8.2 Cover note template",
+    "text": "8.2 Cover note template\nRe: Initial Registration of Economics of Generative AI Research Lab\nTo the Registry of Charities and Fundraisers:\nEnclosed or uploaded please find the initial registration materials for Economics of Generative AI Research Lab, a California nonprofit public benefit corporation organized for educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.\nIncluded are the corporation’s governing documents and related materials as available on the date of filing. If the IRS determination letter is not yet available, it will be submitted upon receipt.\nPlease direct correspondence regarding this filing to:\n[NAME]\n[TITLE]\n[EMAIL]\n[PHONE]\n320B 2nd Ave, San Francisco, California 94118",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>California Attorney General initial registration packet</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html",
+    "href": "submissions/bylaws/03_draft_bylaws.html",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "",
+    "text": "9.1 Article 1. Name\nThe name of this corporation is Economics of Generative AI Research Lab.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-2.-offices",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-2.-offices",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.2 Article 2. Offices",
+    "text": "9.2 Article 2. Offices\nThe principal office of the corporation shall be located at such place in California as the Board of Directors may determine. The corporation may maintain such other offices as the Board may establish.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-3.-purpose-and-limitations",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-3.-purpose-and-limitations",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.3 Article 3. Purpose and limitations",
+    "text": "9.3 Article 3. Purpose and limitations\nThis corporation is organized and shall be operated exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.\nNo part of the net earnings of this corporation shall inure to the benefit of, or be distributable to, any private person, except that the corporation may pay reasonable compensation for services rendered and make payments in furtherance of its exempt purposes.\nNo substantial part of the activities of this corporation shall consist of carrying on propaganda or otherwise attempting to influence legislation, except as permitted under Section 501(c)(3), and the corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.\nThe corporation shall not engage in activities not permitted to be carried on by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-4.-no-members",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-4.-no-members",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.4 Article 4. No members",
+    "text": "9.4 Article 4. No members\nThis corporation shall have no members within the meaning of the California Nonprofit Public Benefit Corporation Law.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-5.-board-of-directors",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-5.-board-of-directors",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.5 Article 5. Board of Directors",
+    "text": "9.5 Article 5. Board of Directors\nThe corporation shall be governed by a Board of Directors.\nThe authorized number of directors shall be not less than 3 and not more than 7, with the exact number to be fixed from time to time by Board resolution.\nDirectors shall serve terms of 2 years and may be re-elected.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-6.-powers-of-the-board",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-6.-powers-of-the-board",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.6 Article 6. Powers of the Board",
+    "text": "9.6 Article 6. Powers of the Board\nSubject to law and the Articles of Incorporation, all corporate powers shall be exercised by or under the authority of the Board, and the business and affairs of the corporation shall be managed under the direction of the Board.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-7.-meetings",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-7.-meetings",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.7 Article 7. Meetings",
+    "text": "9.7 Article 7. Meetings\nRegular meetings of the Board may be held at such time and place as the Board determines.\nSpecial meetings may be called by the President, the Secretary, or any 2 directors.\nNotice of special meetings shall be given at least 4 days before the meeting by mail or 48 hours before the meeting by electronic transmission, personal delivery, or telephone.\nMeetings may be held by conference telephone, video, or similar communications equipment so long as all directors can hear one another.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-8.-quorum-and-voting",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-8.-quorum-and-voting",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.8 Article 8. Quorum and voting",
+    "text": "9.8 Article 8. Quorum and voting\nA majority of the authorized number of directors then in office shall constitute a quorum.\nIf a quorum is present, the act of a majority of directors present shall be the act of the Board, unless a greater vote is required by law, the Articles, or these Bylaws.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-9.-action-without-meeting",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-9.-action-without-meeting",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.9 Article 9. Action without meeting",
+    "text": "9.9 Article 9. Action without meeting\nAny action required or permitted to be taken by the Board may be taken without a meeting if all directors consent in writing or by electronic transmission.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-10.-vacancies",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-10.-vacancies",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.10 Article 10. Vacancies",
+    "text": "9.10 Article 10. Vacancies\nAny vacancy on the Board may be filled by approval of the Board or, if the number of directors then in office is less than a quorum, by unanimous written consent of the directors then in office.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-11.-officers",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-11.-officers",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.11 Article 11. Officers",
+    "text": "9.11 Article 11. Officers\nThe officers of the corporation shall be a President, a Secretary, and a Treasurer, and may include such other officers as the Board appoints.\nThe same person may hold any number of offices except that neither the Secretary nor the Treasurer may serve concurrently as President.\n\n9.11.1 President\nThe President shall be the chief executive officer unless the Board provides otherwise and shall supervise the general affairs of the corporation.\n\n\n9.11.2 Secretary\nThe Secretary shall keep or cause to be kept the minutes of proceedings of the Board, maintain corporate records, and give required notices.\n\n\n9.11.3 Treasurer\nThe Treasurer shall oversee the corporation’s financial affairs, books, reports, and funds.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-12.-committees",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-12.-committees",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.12 Article 12. Committees",
+    "text": "9.12 Article 12. Committees\nThe Board may create committees to the extent permitted by California law. No committee may exercise the authority of the Board except as expressly allowed by law and Board resolution.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-13.-conflict-of-interest",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-13.-conflict-of-interest",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.13 Article 13. Conflict of interest",
+    "text": "9.13 Article 13. Conflict of interest\nThe corporation shall maintain a conflict of interest policy applicable to directors, officers, committee members with board-delegated powers, and key employees. Interested-director transactions shall be reviewed and approved only in accordance with California law and applicable federal tax-exemption requirements.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-14.-compensation",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-14.-compensation",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.14 Article 14. Compensation",
+    "text": "9.14 Article 14. Compensation\nDirectors shall not receive compensation for service as directors unless specifically approved by the Board in compliance with the corporation’s compensation review policy and applicable law. Directors may receive reasonable reimbursement of expenses.\nAny compensation paid by the corporation to officers, employees, contractors, or other insiders shall be reasonable and in furtherance of the corporation’s exempt purposes.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-15.-indemnification",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-15.-indemnification",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.15 Article 15. Indemnification",
+    "text": "9.15 Article 15. Indemnification\nTo the fullest extent permitted by California law, the corporation shall indemnify its directors, officers, employees, and agents for acts performed in good faith in the course and scope of their service to the corporation.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-16.-corporate-records",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-16.-corporate-records",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.16 Article 16. Corporate records",
+    "text": "9.16 Article 16. Corporate records\nThe corporation shall maintain correct books and records of account, minutes of proceedings of the Board and committees, and such records as required by law.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-17.-fiscal-year",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-17.-fiscal-year",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.17 Article 17. Fiscal year",
+    "text": "9.17 Article 17. Fiscal year\nThe fiscal year of the corporation shall end on the date fixed by Board resolution.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/03_draft_bylaws.html#article-18.-amendment",
+    "href": "submissions/bylaws/03_draft_bylaws.html#article-18.-amendment",
+    "title": "9  Bylaws of Economics of Generative AI Research Lab",
+    "section": "9.18 Article 18. Amendment",
+    "text": "9.18 Article 18. Amendment\nThese Bylaws may be amended by approval of the Board, subject to the Articles of Incorporation and applicable law.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Bylaws of Economics of Generative AI Research Lab</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html",
+    "title": "10  Conflict of Interest Policy",
+    "section": "",
+    "text": "10.1 1. Purpose\nThe purpose of this policy is to protect the interests of Economics of Generative AI Research Lab when it is considering a transaction or arrangement that may benefit the private interest of a director, officer, key employee, or other person in a position to exercise substantial influence over the affairs of the corporation.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#covered-persons",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#covered-persons",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.2 2. Covered persons",
+    "text": "10.2 2. Covered persons\nThis policy applies to directors, officers, committee members with board-delegated powers, key employees, and any other person designated by the Board.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#conflict-of-interest",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#conflict-of-interest",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.3 3. Conflict of interest",
+    "text": "10.3 3. Conflict of interest\nA conflict of interest exists when a covered person has a direct or indirect financial interest, personal interest, or organizational loyalty that may interfere with the person’s ability to act solely in the best interests of the corporation.\nExamples include:\n\nownership or compensation interest in an entity doing business with the corporation;\nfamily relationship with a person receiving compensation or economic benefit from the corporation;\npersonal benefit from a grant, contract, publication arrangement, or vendor selection;\nresearch or consulting ties that could affect the independence of the corporation’s work.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#duty-to-disclose",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#duty-to-disclose",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.4 4. Duty to disclose",
+    "text": "10.4 4. Duty to disclose\nCovered persons shall disclose actual, potential, and apparent conflicts to the Board or relevant committee before discussion or decision on the matter.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#determination-procedure",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#determination-procedure",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.5 5. Determination procedure",
+    "text": "10.5 5. Determination procedure\nAfter disclosure of the material facts, the interested person shall leave the meeting while the remaining disinterested directors discuss and determine whether a conflict exists and, if so, whether the proposed transaction is fair, reasonable, and in the corporation’s best interests.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#approval-standard",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#approval-standard",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.6 6. Approval standard",
+    "text": "10.6 6. Approval standard\nThe Board may approve the transaction only if:\n\nthe material facts have been fully disclosed;\ndisinterested directors determine in good faith that the transaction is in the corporation’s best interests;\nthe transaction is fair and reasonable;\ncomparable alternatives have been considered where appropriate;\nthe decision is documented in the minutes.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#compensation-matters",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#compensation-matters",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.7 7. Compensation matters",
+    "text": "10.7 7. Compensation matters\nA voting member of the Board who receives compensation from the corporation may provide factual information regarding compensation arrangements but shall not vote on that person’s own compensation.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#annual-statements",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#annual-statements",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.8 8. Annual statements",
+    "text": "10.8 8. Annual statements\nEach covered person shall annually sign a statement affirming that the person:\n\nreceived a copy of this policy;\nread and understands the policy;\nagrees to comply with the policy; and\nunderstands that the corporation must operate in a manner consistent with its charitable and tax-exempt purposes.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#violations",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#violations",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.9 9. Violations",
+    "text": "10.9 9. Violations\nIf the Board has reasonable cause to believe a covered person failed to disclose an actual or possible conflict, the Board shall inform the person of the basis for that belief and allow an opportunity to explain. If, after investigation, the Board determines a violation occurred, it may take appropriate corrective action.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#records",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#records",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.10 10. Records",
+    "text": "10.10 10. Records\nThe minutes of Board and committee meetings shall contain:\n\nthe name of the person who disclosed or was found to have a conflict;\nthe nature of the conflict;\nthe action taken to determine whether a conflict existed;\nthe final decision and vote.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/04_conflict_of_interest_policy.html#annual-disclosure-form",
+    "href": "submissions/bylaws/04_conflict_of_interest_policy.html#annual-disclosure-form",
+    "title": "10  Conflict of Interest Policy",
+    "section": "10.11 Annual disclosure form",
+    "text": "10.11 Annual disclosure form\nName: [NAME]\nRole: [ROLE]\nDisclosed entities / relationships: [LIST OR NONE]\nSignature: ____________________________\nDate: [DATE]",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Conflict of Interest Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html",
+    "href": "submissions/bylaws/05_compensation_review_policy.html",
+    "title": "11  Compensation Review Policy",
+    "section": "",
+    "text": "11.1 Purpose\nThe corporation will establish compensation only when it is reasonable, aligned with exempt purposes, and approved through a documented process that reduces private inurement and excess benefit risk.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html#scope",
+    "href": "submissions/bylaws/05_compensation_review_policy.html#scope",
+    "title": "11  Compensation Review Policy",
+    "section": "11.2 Scope",
+    "text": "11.2 Scope\nThis policy applies to compensation for:\n\nofficers;\ndirectors if ever compensated;\nkey employees;\ncontractors with insider relationships;\nany person who may be a disqualified person for federal tax purposes.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html#approval-standards",
+    "href": "submissions/bylaws/05_compensation_review_policy.html#approval-standards",
+    "title": "11  Compensation Review Policy",
+    "section": "11.3 Approval standards",
+    "text": "11.3 Approval standards\nBefore approving compensation, the Board or an authorized committee composed only of disinterested persons should:\n\nreview the duties of the position;\nobtain comparability data where practical, such as salary surveys, peer nonprofit compensation, or independent quotes;\ndetermine that the proposed compensation is reasonable and in the best interests of the corporation;\ndocument the basis for the decision in contemporaneous minutes.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html#interested-persons",
+    "href": "submissions/bylaws/05_compensation_review_policy.html#interested-persons",
+    "title": "11  Compensation Review Policy",
+    "section": "11.4 Interested persons",
+    "text": "11.4 Interested persons\nAny person with a conflict relating to the compensation decision shall disclose the conflict and recuse from voting.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html#documentation",
+    "href": "submissions/bylaws/05_compensation_review_policy.html#documentation",
+    "title": "11  Compensation Review Policy",
+    "section": "11.5 Documentation",
+    "text": "11.5 Documentation\nThe minutes should reflect:\n\nwho was considered;\nwho voted;\nwhat comparability data was reviewed;\nthe approved amount and effective date;\nany abstentions or recusals.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html#frequency",
+    "href": "submissions/bylaws/05_compensation_review_policy.html#frequency",
+    "title": "11  Compensation Review Policy",
+    "section": "11.6 Frequency",
+    "text": "11.6 Frequency\nCompensation should be reviewed:\n\nbefore initial approval;\nupon material role changes;\nperiodically thereafter.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/bylaws/05_compensation_review_policy.html#guiding-rule",
+    "href": "submissions/bylaws/05_compensation_review_policy.html#guiding-rule",
+    "title": "11  Compensation Review Policy",
+    "section": "11.7 Guiding rule",
+    "text": "11.7 Guiding rule\nThe corporation should default to conservative, market-grounded compensation and avoid arrangements tied primarily to revenue generation, private fundraising percentages, or founder discretion.",
+    "crumbs": [
+      "Incorporation",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Compensation Review Policy</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html",
+    "title": "12  Form 1023 activity narrative",
+    "section": "",
+    "text": "12.1 Organization overview\nEconomics of Generative AI Research Lab is a California nonprofit public benefit corporation organized exclusively for educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.\nThe corporation’s mission is to advance public understanding of how large language models and AI agents affect economic behavior, decision-making, and institutions. The organization conducts independent educational and scientific research on the emerging agent economy, including how AI agents behave, how they interact with one another, and how they interact with humans as they become increasingly embedded in modern economic life.\nThe organization is operated exclusively for educational and scientific purposes and does not intend to conduct consulting, product development, licensing, paid private-client research, or other commercial business activity.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#activity-1.-research-on-agents-as-objects-of-study",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#activity-1.-research-on-agents-as-objects-of-study",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.2 Activity 1. Research on agents as objects of study",
+    "text": "12.2 Activity 1. Research on agents as objects of study\nThe organization studies AI agents themselves as objects of educational and scientific research. This includes research on the preferences, decision-making patterns, and biases of large language models and related agentic systems, as well as differences across architectures, prompting conditions, and deployment contexts.\nActivities may include:\n\ndesigning and conducting experiments involving language models and agentic systems;\ncomparing revealed and stated preferences in language models;\nstudying bias, preference formation, and decision-making behavior across models;\npreparing papers, research memoranda, and methodological materials for public dissemination.\n\nRepresentative current or near-term work includes Model Personality Trumps Persona Prompting: Evidence from Controlled Prompting Experiments and related research on preferences, behavior, and methodological interpretation.\nThis activity is expected to account for approximately 35 percent of the organization’s time and resources in the first year. It will be conducted primarily by directors, collaborating academic colleagues, and student researchers.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#activity-2.-research-on-agent-to-agent-interaction-and-the-emerging-agent-economy",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#activity-2.-research-on-agent-to-agent-interaction-and-the-emerging-agent-economy",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.3 Activity 2. Research on agent-to-agent interaction and the emerging agent economy",
+    "text": "12.3 Activity 2. Research on agent-to-agent interaction and the emerging agent economy\nThe organization studies how AI agents interact with one another and how these interactions may produce system-level outcomes in an emerging agent economy. The educational and scientific purpose of this work is to improve understanding of how agent behavior scales from individual systems to interactive and market-like environments.\nActivities may include:\n\nconceptual and empirical work on agent-to-agent interaction;\ndevelopment of research agendas, benchmarks, and datasets related to multi-agent systems;\nsimulations, negotiation environments, and other structured interaction settings;\npreparation of agenda-setting papers and public research outputs on LLMs as economic agents.\n\nRepresentative topics include price formation in multi-agent language-model markets, repeated negotiation games, and the evolution of strategy and knowledge in multi-agent settings.\nThis activity is expected to account for approximately 30 percent of the organization’s time and resources in the first year. It will be conducted primarily by directors and academic collaborators.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#activity-3.-research-on-human-agent-interaction-and-public-perception",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#activity-3.-research-on-human-agent-interaction-and-public-perception",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.4 Activity 3. Research on human-agent interaction and public perception",
+    "text": "12.4 Activity 3. Research on human-agent interaction and public perception\nThe organization studies how humans perceive, evaluate, trust, and respond to AI agents and AI-generated outputs, especially as the agent economy increasingly overlaps with the human economy. This research advances educational and scientific purposes by contributing evidence about human interaction with emerging technologies and the social interpretation of agent behavior.\nActivities may include:\n\npilot studies and experiments involving human subjects, subject to appropriate review and approval where required;\nresearch design, survey development, and literature review;\nanalysis of how different populations perceive and engage with agents;\npublic dissemination of findings through papers, lectures, workshops, and research summaries.\n\nRepresentative current or near-term work includes AI or Not? Human Inability to Reliably Detect AI-Generated Content and related work on trust, acceptance, and response to AI systems.\nThis activity is expected to account for approximately 20 percent of the organization’s time and resources in the first year. It will be conducted primarily by directors and student researchers, including pilot work and experimental preparation.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#activity-4.-methodology-benchmarks-and-research-quality",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#activity-4.-methodology-benchmarks-and-research-quality",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.5 Activity 4. Methodology, benchmarks, and research quality",
+    "text": "12.5 Activity 4. Methodology, benchmarks, and research quality\nThe organization develops methodologies, benchmarks, and reproducibility-oriented research practices for studying language models and AI agents. This is a central public-benefit function because the field is expanding quickly and often lacks shared standards for replication, interpretation, and comparison across systems.\nActivities may include:\n\nmethodological papers and replication-oriented studies;\nbenchmark development;\nguidance on reproducibility, inference configuration, and experimental design;\neducational materials that improve research practice in the field.\n\nThis activity will be carried out across the organization’s substantive research areas and is expected to overlap with each of the activities above.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#public-dissemination-and-educational-engagement",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#public-dissemination-and-educational-engagement",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.6 Public dissemination and educational engagement",
+    "text": "12.6 Public dissemination and educational engagement\nThe organization intends to publish papers, working papers, public research summaries, and methodological materials, and may also present work through workshops and lectures. Its educational approach includes involving students directly in the research process and making research outputs available to appropriate public and academic audiences.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#revenue-sources",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#revenue-sources",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.7 Revenue sources",
+    "text": "12.7 Revenue sources\nExpected revenue sources may include:\n\nfounder donations;\nresearch grants;\nfoundation grants.\n\nThe organization does not intend to conduct commercial activity, including consulting services, product development, licensing businesses, or other company-like operations. Its activities are limited to research, education, publication, and related exempt functions.\nThe organization may collaborate with academic institutions, nonprofit organizations, and, in limited ways, for-profit companies where such collaboration advances public-interest research. Any interaction with for-profit companies will be structured so that private parties do not control research conclusions, research design, or publication decisions.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#compensation-and-private-benefit",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#compensation-and-private-benefit",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.8 Compensation and private benefit",
+    "text": "12.8 Compensation and private benefit\nThe organization does not currently plan to compensate directors or officers during the first 12 months. If compensation is ever introduced, it will be set under a documented review process using disinterested approval and reasonableness standards.\nNo part of the organization’s net earnings will inure to insiders. The organization will not be operated for the benefit of founders, directors, donors, or any other private party.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#political-activity-and-lobbying",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#political-activity-and-lobbying",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.9 Political activity and lobbying",
+    "text": "12.9 Political activity and lobbying\nThe organization will not participate or intervene in political campaigns. It will not devote a substantial part of its activities to lobbying.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/02_form_1023_activity_narrative.html#geographic-scope",
+    "href": "submissions/irs/02_form_1023_activity_narrative.html#geographic-scope",
+    "title": "12  Form 1023 activity narrative",
+    "section": "12.10 Geographic scope",
+    "text": "12.10 Geographic scope\nActivities will primarily be conducted in the United States through online collaboration, academic collaboration, and work connected to the San Francisco principal office.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Form 1023 activity narrative</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/03_form_1023_officers_directors_template.html",
+    "href": "submissions/irs/03_form_1023_officers_directors_template.html",
+    "title": "13  Form 1023 officers, directors, and key employees attachment",
+    "section": "",
+    "text": "13.1 Officers and directors table\nUse this as the working attachment for IRS filing and internal approvals.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Form 1023 officers, directors, and key employees attachment</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/03_form_1023_officers_directors_template.html#officers-and-directors-table",
+    "href": "submissions/irs/03_form_1023_officers_directors_template.html#officers-and-directors-table",
+    "title": "13  Form 1023 officers, directors, and key employees attachment",
+    "section": "",
+    "text": "Name\nTitle\nMailing address\nAverage hours/week\nCompensation\nRelated to another insider?\n\n\n\n\nNikita Tkachenko\nPresident / Director\n320B 2nd Ave, San Francisco, California 94118\n[HOURS]\n0\nNo\n\n\nJake Cosgrove\nSecretary / Director\n320B 2nd Ave, San Francisco, California 94118\n[HOURS]\n0\nNo\n\n\nAlessandsa Cassar\nTreasurer / Director\n320B 2nd Ave, San Francisco, California 94118\n[HOURS]\n0\nNo",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Form 1023 officers, directors, and key employees attachment</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/03_form_1023_officers_directors_template.html#notes-to-complete-before-filing",
+    "href": "submissions/irs/03_form_1023_officers_directors_template.html#notes-to-complete-before-filing",
+    "title": "13  Form 1023 officers, directors, and key employees attachment",
+    "section": "13.2 Notes to complete before filing",
+    "text": "13.2 Notes to complete before filing\n\nInclude every director and officer.\nAdd key employees if any exist.\nNo family relationships are currently expected among insiders based on the current intake sheet.\nIf anyone is compensated, cross-reference the compensation review policy and board approval minutes.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Form 1023 officers, directors, and key employees attachment</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/05_internal_activity_table.html",
+    "href": "submissions/irs/05_internal_activity_table.html",
+    "title": "14  Internal activity table for lawyer review",
+    "section": "",
+    "text": "14.1 Supporting factual notes\nThis is an internal working summary of the first-year activity mix reflected in the narrative draft.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Internal activity table for lawyer review</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/05_internal_activity_table.html#supporting-factual-notes",
+    "href": "submissions/irs/05_internal_activity_table.html#supporting-factual-notes",
+    "title": "14  Internal activity table for lawyer review",
+    "section": "",
+    "text": "Public outputs expected in year 1: 1-2 papers, working papers, and methodological materials as feasible\nEvents expected in year 1: workshops and lectures\nStudent participation: may include research assistant, volunteer, fellow, workshop participant, or coauthor roles depending on collaboration structure\nNo planned director or officer compensation in year 1\nNo planned grants or fellowships in year 1\nNo planned software/tool development in year 1\nNo planned consulting, paid private-client research, product sales, licensing business, or startup activity",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Internal activity table for lawyer review</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/04_budget.html",
+    "href": "submissions/irs/04_budget.html",
+    "title": "15  Budget",
+    "section": "",
+    "text": "15.1 1023-EZ\nThis section presents four budget scenarios for planning and filing discussion:\nThe 1023-EZ scenario is the only one designed to remain under the projected gross-receipts ceiling associated with 1023-EZ. The other three scenarios are useful for strategic planning and for evaluating whether the full Form 1023 is the more realistic filing path.\nThis scenario is designed to remain consistent with a 1023-EZ posture by keeping projected annual gross receipts under $50,000 in each of the next 3 years.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Budget</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/04_budget.html#ez",
+    "href": "submissions/irs/04_budget.html#ez",
+    "title": "15  Budget",
+    "section": "",
+    "text": "15.1.1 Year 1\n\n15.1.1.1 Revenue\n\nFounder donations: $15,000\nFoundation grants: $10,000\nOther contributions: $5,000\n\nTotal revenue: $30,000\n\n\n15.1.1.2 Expenses\n\nHuman experiments: $15,000\nPublishing / open access: $3,000\nWebsite / software / tools: $2,000\nProfessional fees: $2,000\nTravel: $4,000\nEvents / workshops: $2,000\nInsurance / admin / other: $2,000\n\nTotal expenses: $30,000\nNet: $0\n\n\n\n15.1.2 Year 2\n\n15.1.2.1 Revenue\n\nIndividual contributions: $15,000\nFoundation grants: $15,000\nResearch support / grants: $10,000\nOther contributions: $5,000\n\nTotal revenue: $45,000\n\n\n15.1.2.2 Expenses\n\nHuman experiments: $22,000\nPublishing / open access: $5,000\nWebsite / software / tools: $3,000\nProfessional fees: $2,000\nTravel: $6,000\nEvents / workshops: $4,000\nInsurance / admin / other: $3,000\n\nTotal expenses: $45,000\nNet: $0\n\n\n\n15.1.3 Year 3\n\n15.1.3.1 Revenue\n\nIndividual contributions: $15,000\nFoundation grants: $15,000\nResearch support / grants: $10,000\nOther contributions: $8,000\n\nTotal revenue: $48,000\n\n\n15.1.3.2 Expenses\n\nHuman experiments: $24,000\nPublishing / open access: $6,000\nWebsite / software / tools: $3,000\nProfessional fees: $2,000\nTravel: $7,000\nEvents / workshops: $4,000\nInsurance / admin / other: $2,000\n\nTotal expenses: $48,000\nNet: $0\n\n\n\n15.1.4 Notes\n\nThis scenario is the only one in this packet designed to stay within 1023-EZ gross-receipts assumptions.\nIt supports a lean research program while preserving 1023-EZ eligibility assumptions on projected receipts.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Budget</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/04_budget.html#good",
+    "href": "submissions/irs/04_budget.html#good",
+    "title": "15  Budget",
+    "section": "15.2 Good",
+    "text": "15.2 Good\nThis scenario reflects a sustainable research engine with regular output and moderate field visibility.\n\n15.2.1 Year 1\n\n15.2.1.1 Revenue\n\nFounder donations: $20,000\nFoundation grants: $20,000\nResearch support / grants: $10,000\nOther contributions: $5,000\n\nTotal revenue: $55,000\n\n\n15.2.1.2 Expenses\n\nHuman experiments: $25,000\nPublishing / open access: $7,000\nWebsite / software / tools: $3,000\nProfessional fees: $2,000\nTravel: $8,000\nEvents / workshops: $4,000\nInsurance / admin / other: $6,000\n\nTotal expenses: $55,000\nNet: $0\n\n\n\n15.2.2 Notes\n\nThis scenario supports 2 to 4 papers per year.\nBecause projected receipts exceed $50,000, it is more consistent with full Form 1023 than 1023-EZ.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Budget</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/04_budget.html#great",
+    "href": "submissions/irs/04_budget.html#great",
+    "title": "15  Budget",
+    "section": "15.3 Great",
+    "text": "15.3 Great\nThis scenario reflects a stronger field-building research program with larger experimental capacity and wider dissemination.\n\n15.3.1 Year 1\n\n15.3.1.1 Revenue\n\nIndividual contributions: $25,000\nFoundation grants: $30,000\nResearch support / grants: $20,000\nOther contributions: $10,000\n\nTotal revenue: $85,000\n\n\n15.3.1.2 Expenses\n\nHuman experiments: $38,000\nPublishing / open access: $10,000\nWebsite / software / tools: $4,000\nProfessional fees: $2,000\nTravel: $12,000\nEvents / workshops: $8,000\nContractors / research support: $6,000\nInsurance / admin / other: $5,000\n\nTotal expenses: $85,000\nNet: $0\n\n\n\n15.3.2 Notes\n\nThis scenario fits a visible and productive lean lab with expanded study capacity.\nIt clearly fits full Form 1023, not 1023-EZ.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Budget</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/irs/04_budget.html#excellent",
+    "href": "submissions/irs/04_budget.html#excellent",
+    "title": "15  Budget",
+    "section": "15.4 Excellent",
+    "text": "15.4 Excellent\nThis scenario reflects a high-output lean lab with strong field visibility, frequent dissemination, and larger human-subjects capacity.\n\n15.4.1 Year 1\n\n15.4.1.1 Revenue\n\nIndividual contributions: $30,000\nFoundation grants: $40,000\nResearch support / grants: $30,000\nOther contributions: $10,000\n\nTotal revenue: $110,000\n\n\n15.4.1.2 Expenses\n\nHuman experiments: $50,000\nPublishing / open access: $15,000\nWebsite / software / tools: $5,000\nProfessional fees: $3,000\nTravel: $15,000\nEvents / workshops: $10,000\nContractors / research support: $7,000\nInsurance / admin / other: $5,000\n\nTotal expenses: $110,000\nNet: $0\n\n\n\n15.4.2 Notes\n\nThis scenario supports a high-output research lab with stronger field presence and more ambitious dissemination.\nIt is appropriate only for full Form 1023, not 1023-EZ.",
+    "crumbs": [
+      "1023",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Budget</span>"
+    ]
+  },
+  {
+    "objectID": "submissions/other/03_donation_acknowledgment_template.html",
+    "href": "submissions/other/03_donation_acknowledgment_template.html",
+    "title": "16  Donation acknowledgment template",
+    "section": "",
+    "text": "Economics of Generative AI Research Lab\nDate: [DATE]\nDear [DONOR NAME],\nThank you for your contribution to Economics of Generative AI Research Lab in the amount of $[AMOUNT] received on [DATE].\nNo goods or services were provided in exchange for this contribution, other than intangible religious benefits, if any.\n[OR, IF SOMETHING WAS PROVIDED: The estimated fair market value of goods or services provided in exchange for this contribution was $[AMOUNT].]\nYour support helps advance educational and scientific research on the economics of generative artificial intelligence and related technologies.\nSincerely,\n[NAME]\n[TITLE]",
+    "crumbs": [
+      "Other",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Donation acknowledgment template</span>"
+    ]
+  }
+]

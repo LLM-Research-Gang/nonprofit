@@ -1,0 +1,71 @@
+# Initial Board Action by Unanimous Written Consent
+
+## Draft
+
+**Unanimous Written Consent of the Board of Directors of Economics of Generative AI Research Lab**
+
+The undersigned, constituting all of the directors of `Economics of Generative AI Research Lab`, a California nonprofit public benefit corporation, hereby adopt the following resolutions by unanimous written consent:
+
+### 1. Ratification of formation
+
+RESOLVED, that the filing of the Articles of Incorporation is ratified and approved.
+
+### 2. Bylaws
+
+RESOLVED, that the Bylaws presented to the Board are adopted as the Bylaws of the corporation, to be placed in the corporate records book.
+
+### 3. Principal office
+
+RESOLVED, that the principal office of the corporation shall be located at `320B 2nd Ave, San Francisco, California 94118`, or such other location as the Board may later approve.
+
+### 4. Fiscal year
+
+RESOLVED, that the fiscal year of the corporation shall end on `[MONTH DAY]`.
+
+Recommended default if no reason otherwise:
+
+`December 31`
+
+### 5. Election of officers
+
+RESOLVED, that the following persons are elected to the offices set forth opposite their names, to serve at the pleasure of the Board:
+
+- President: `Nikita Tkachenko`
+- Secretary: `Jake Cosgrove`
+- Treasurer: `Alessandsa Cassar`
+
+### 6. Banking authority
+
+RESOLVED, that the officers are authorized to open one or more bank accounts in the name of the corporation and execute such documents as are required by the financial institution, subject to any further limits the Board later adopts.
+
+### 7. EIN and tax filings
+
+RESOLVED, that the officers are authorized to obtain an EIN and prepare, sign, and submit all federal, state, and local registrations, elections, and exemption filings, including IRS Form 1023 or 1023-EZ, California Form SI-100, Attorney General charitable registration materials, and FTB exemption filings.
+
+### 8. Conflict of interest policy
+
+RESOLVED, that the Conflict of Interest Policy presented to the Board is adopted, and each director and officer shall complete annual disclosures.
+
+### 9. Compensation review policy
+
+RESOLVED, that the Compensation Review Policy presented to the Board is adopted and shall govern compensation arrangements with directors, officers, key employees, and other disqualified persons.
+
+### 10. Records and minute book
+
+RESOLVED, that the Secretary is directed to maintain complete and accurate corporate records, including articles, bylaws, minutes, consents, policies, exemption filings, and annual reports.
+
+### 11. General authority
+
+RESOLVED, that the officers of the corporation are authorized to take any additional actions and execute any additional documents reasonably necessary to carry out the intent of these resolutions.
+
+This consent may be executed in counterparts and electronically.
+
+Date: `[DATE]`
+
+Director signatures:
+
+`__________________________________`  `Nikita Tkachenko`
+
+`__________________________________`  `Jake Cosgrove`
+
+`__________________________________`  `Alessandsa Cassar`

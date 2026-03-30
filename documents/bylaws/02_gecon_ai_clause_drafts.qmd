@@ -1,0 +1,44 @@
+# gecon.ai draft clause language
+
+These are draft starting points, not filing-ready legal advice. They are written to fit the mission visible in the adjacent `lab-website` project: an AI economics research lab focused on the economics of generative AI, public research, and education.
+
+## Draft purpose language for California articles / IRS narrative
+
+Suggested specific-purpose language:
+
+`This corporation is organized and operated exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code. The specific purposes of this corporation include conducting and disseminating independent research on the economics of generative artificial intelligence and related technologies; publishing public-interest research, data, educational materials, and policy analysis; supporting conferences, seminars, workshops, and collaborations that advance public understanding of artificial intelligence and economics; and making grants or distributions to organizations that qualify as exempt organizations under Section 501(c)(3) of the Internal Revenue Code.`
+
+## Draft non-inurement / political activity language
+
+`No part of the net earnings of this corporation shall inure to the benefit of, or be distributable to, its directors, officers, private persons, or other insiders, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of its exempt purposes. No substantial part of the activities of this corporation shall consist of carrying on propaganda or otherwise attempting to influence legislation, except as permitted under Section 501(c)(3) of the Internal Revenue Code, and the corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.`
+
+## Draft dissolution clause
+
+`Upon the dissolution of this corporation, its assets remaining after payment, or provision for payment, of all debts and liabilities of this corporation shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or shall be distributed to the federal government, or to a state or local government, for a public purpose.`
+
+## Draft no-members clause for bylaws
+
+`This corporation shall have no members within the meaning of the California Nonprofit Public Benefit Corporation Law. Any action that would otherwise require approval by members shall require only approval of the Board of Directors to the extent permitted by law.`
+
+## Draft mission framing for applications and website consistency
+
+Working formulation:
+
+- study how generative AI changes economic behavior, institutions, labor, markets, and policy;
+- produce public-benefit research and educational outputs;
+- provide students opportunities to participate in the research process and contribute to rigorous study of AI;
+- contribute methodology, datasets, benchmarks, and public research outputs to the field;
+- avoid commercial and company-like activity;
+- make methods and findings broadly accessible.
+
+## What to avoid in governing docs and Form 1023
+
+Avoid describing the organization primarily as:
+
+- a consulting firm;
+- a policy advocacy vehicle;
+- a startup incubator;
+- a product commercialization lab;
+- an entity built to support the private careers or private companies of founders.
+
+Those descriptions create 501(c)(3) risk around private benefit, lobbying, or non-exempt commercial purpose.

@@ -1,0 +1,81 @@
+# California: ongoing compliance after formation
+
+## Secretary of State
+
+File `SI-100`:
+
+- initial filing within 90 days after registration;
+- then every 2 years in the required filing window;
+- also update when agent/address information changes.
+
+Sources:
+
+- https://www.sos.ca.gov/business-programs/business-entities/faqs
+- https://www.sos.ca.gov/business-programs/business-entities/statements?86f7b=x
+
+## Attorney General Registry of Charities and Fundraisers
+
+After initial registration, California charities have annual AG renewal/reporting obligations.
+
+Useful official pages:
+
+- Initial registration: https://oag.ca.gov/charities/initial-reg
+- Annual renewals/forms hub: https://oag.ca.gov/charities/forms
+
+The AG materials incorporated by reference state:
+
+- `Form RRF-1` is due no later than `4 months and 15 days` after the close of the accounting period;
+- orgs with `$50,000` or more in total revenue generally also submit the applicable IRS `Form 990`;
+- orgs with less than `$50,000` in total revenue generally file `CT-TR-1`.
+
+Source:
+
+- DOJ incorporated forms PDF: https://oag.ca.gov/system/files/media/pf-forms-incorporated-by-reference.pdf
+
+## Franchise Tax Board
+
+California-exempt organizations may have to file:
+
+- `Form 199`;
+- `FTB 199N`;
+- `Form 109` if there is taxable unrelated business income.
+
+Official sources:
+
+- Annual and filing requirements: https://www.ftb.ca.gov/file/business/types/charities-nonprofits/annual-and-filing-requirements.html
+- Form 199 booklet: https://www.ftb.ca.gov/forms/2022/2022-199-booklet.html
+
+## IRS
+
+Keep filing the correct annual federal return:
+
+- `990-N`, `990-EZ`, or `990`;
+- possible `990-T` if unrelated business income applies.
+
+Official sources:
+
+- Annual return due dates: https://www.irs.gov/charities-non-profits/return-due-dates-for-exempt-organizations-annual-return
+- 990-N guidance: https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard
+
+## Records you should maintain continuously
+
+- articles and amendments;
+- bylaws and amendments;
+- IRS determination letter;
+- FTB exemption acknowledgment;
+- AG registration records;
+- board minutes and written consents;
+- conflict disclosures;
+- grant agreements;
+- donation acknowledgments;
+- accounting records and annual budgets.
+
+## Practical compliance notes for a research nonprofit
+
+`gecon.ai` is likely low-risk if it:
+
+- publishes research for public benefit;
+- avoids private inurement and insider transactions;
+- documents any founder compensation carefully;
+- uses contracts when working with universities, contractors, or labs;
+- separates charitable research from any commercial consulting or product work.

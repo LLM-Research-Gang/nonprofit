@@ -1,0 +1,28 @@
+---
+title: "Nonprofit Packet"
+subtitle: "Economics of Generative AI Research Lab"
+---
+
+# Overview
+
+This Quarto project assembles the lab direction materials and the current nonprofit formation and IRS submission drafts into HTML and PDF outputs.
+
+## Reports
+
+- `direction_and_mission.qmd`: strategic direction, mission, and research agenda
+- `submissions/`: draft formation and IRS submission documents
+
+## Source folders
+
+- `documents/`: background research and internal reference notes, not included in the rendered book
+- `submissions/`: filing-ready draft materials
+
+## Rendering
+
+Render the full book:
+
+```bash
+quarto render
+```
+
+Outputs are written to `_output/`.

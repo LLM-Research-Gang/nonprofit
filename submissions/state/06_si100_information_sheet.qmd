@@ -1,0 +1,25 @@
+# SI-100 information sheet
+
+Use this as a prep sheet before filing the actual California `SI-100`.
+
+Official filing hub:
+
+- https://bizfileonline.sos.ca.gov/
+
+## Information to gather
+
+- Exact legal corporate name: `Economics of Generative AI Research Lab`
+- California entity number: `[ENTITY NUMBER AFTER FILING]`
+- Secretary of State file date: `[DATE]`
+- Principal executive office address: `320B 2nd Ave, San Francisco, California 94118`
+- Business mailing address: `320B 2nd Ave, San Francisco, California 94118`
+- California street address, if different: `Same as above`
+- Chief Executive Officer name/address: `Nikita Tkachenko / 320B 2nd Ave, San Francisco, California 94118`
+- Secretary name/address: `Jake Cosgrove / 320B 2nd Ave, San Francisco, California 94118`
+- Chief Financial Officer name/address: `Alessandsa Cassar / 320B 2nd Ave, San Francisco, California 94118`
+- Agent for service of process: `Nikita Tkachenko / 320B 2nd Ave, San Francisco, California 94118`
+
+## Timing
+
+- Initial filing: within 90 days after registration.
+- Later filings: every 2 years in the applicable filing window.

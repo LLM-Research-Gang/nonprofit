@@ -1,0 +1,25 @@
+# Incorporator Statement
+
+## Purpose
+
+This document is typically signed after the articles are filed. It appoints the initial board if the directors are not already named in the articles.
+
+## Draft
+
+**Incorporator Statement of Economics of Generative AI Research Lab**
+
+I, the undersigned, am the incorporator of `Economics of Generative AI Research Lab`, a California nonprofit public benefit corporation.
+
+I hereby appoint the following persons to serve as the initial directors of the corporation, to hold office until the first meeting of the Board of Directors or until their successors are elected and qualified:
+
+1. `Nikita Tkachenko`
+2. `Jake Cosgrove`
+3. `Alessandsa Cassar`
+
+Executed on `[DATE]`.
+
+`__________________________________`
+
+`Nikita Tkachenko`
+
+Incorporator

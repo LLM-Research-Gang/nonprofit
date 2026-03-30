@@ -1,0 +1,26 @@
+# Budget
+
+This section presents four budget scenarios for planning and filing discussion:
+
+- `1023-EZ`
+- `Good`
+- `Great`
+- `Excellent`
+
+The `1023-EZ` scenario is the only one designed to remain under the projected gross-receipts ceiling associated with `1023-EZ`. The other three scenarios are useful for strategic planning and for evaluating whether the full `Form 1023` is the more realistic filing path.
+
+## 1023-EZ
+
+{{< include 04_budget_1023_ez.qmd >}}
+
+## Good
+
+{{< include 05_budget_good.qmd >}}
+
+## Great
+
+{{< include 06_budget_great.qmd >}}
+
+## Excellent
+
+{{< include 07_budget_excellent.qmd >}}

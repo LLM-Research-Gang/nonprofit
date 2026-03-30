@@ -1,0 +1,32 @@
+This scenario reflects a stronger field-building research program with larger experimental capacity and wider dissemination.
+
+### Year 1
+
+#### Revenue
+
+- Individual contributions: `$25,000`
+- Foundation grants: `$30,000`
+- Research support / grants: `$20,000`
+- Other contributions: `$10,000`
+
+Total revenue: `$85,000`
+
+#### Expenses
+
+- Human experiments: `$38,000`
+- Publishing / open access: `$10,000`
+- Website / software / tools: `$4,000`
+- Professional fees: `$2,000`
+- Travel: `$12,000`
+- Events / workshops: `$8,000`
+- Contractors / research support: `$6,000`
+- Insurance / admin / other: `$5,000`
+
+Total expenses: `$85,000`
+
+Net: `$0`
+
+### Notes
+
+- This scenario fits a visible and productive lean lab with expanded study capacity.
+- It clearly fits full `Form 1023`, not `1023-EZ`.

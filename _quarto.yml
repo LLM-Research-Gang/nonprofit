@@ -1,0 +1,48 @@
+project:
+  type: book
+  output-dir: _output
+
+book:
+  title: "Nonprofit Packet"
+  subtitle: "Economics of Generative AI Research Lab"
+  author: "Economics of Generative AI Research Lab"
+  output-file: "nonprofit-packet"
+  chapters:
+    - index.qmd
+    - direction_and_mission.qmd
+    - part: "Incorporation"
+      chapters:
+        - submissions/state/03_draft_articles_ca_501c3.qmd
+        - submissions/state/04_incorporator_statement.qmd
+        - submissions/state/05_draft_initial_board_consent.qmd
+        - submissions/state/08_director_officer_acknowledgment.qmd
+        - submissions/state/06_si100_information_sheet.qmd
+        - submissions/state/07_attorney_general_initial_registration_packet.qmd
+        - submissions/bylaws/03_draft_bylaws.qmd
+        - submissions/bylaws/04_conflict_of_interest_policy.qmd
+        - submissions/bylaws/05_compensation_review_policy.qmd
+    - part: "1023"
+      chapters:
+        - submissions/irs/02_form_1023_activity_narrative.qmd
+        - submissions/irs/03_form_1023_officers_directors_template.qmd
+        - submissions/irs/05_internal_activity_table.qmd
+        - submissions/irs/04_budget.qmd
+    - part: "Other"
+      chapters:
+        - submissions/other/03_donation_acknowledgment_template.qmd
+
+execute:
+  echo: false
+  warning: false
+  error: false
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: true

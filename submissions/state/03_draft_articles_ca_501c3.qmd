@@ -1,0 +1,61 @@
+# California Articles of Incorporation for a 501(c)(3)
+
+This is a drafting aid for the California Secretary of State `ARTS-PB-501(c)(3)` filing.
+
+## Working legal name
+
+`Economics of Generative AI Research Lab`
+
+## Draft articles text
+
+### Article 1. Name
+
+The name of this corporation is:
+
+`Economics of Generative AI Research Lab`
+
+### Article 2. Type
+
+This corporation is a nonprofit public benefit corporation and is not organized for the private gain of any person. It is organized under the California Nonprofit Public Benefit Corporation Law for public, charitable, educational, and scientific purposes.
+
+### Article 3. Specific purpose
+
+This corporation is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code.
+
+The specific purposes of this corporation include conducting and disseminating independent research on the economics of generative artificial intelligence, large language models, and AI agents; studying the emerging agent economy, including agent preferences, decision-making, biases, agent-to-agent interaction, and human-agent interaction; publishing public-interest research, datasets, benchmarks, educational materials, and policy analysis; developing and sharing research methodologies relevant to this novel and rapidly developing field; providing students with opportunities to participate in the research process and to study artificial intelligence rigorously; supporting conferences, seminars, workshops, and collaborations that advance public understanding of artificial intelligence and economics; and making distributions to organizations that qualify as exempt organizations under Section 501(c)(3) of the Internal Revenue Code.
+
+### Article 4. Restrictions
+
+No part of the net earnings of this corporation shall inure to the benefit of, or be distributable to, its directors, officers, or other private persons, except that the corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of its exempt purposes.
+
+No substantial part of the activities of this corporation shall consist of carrying on propaganda, or otherwise attempting to influence legislation, except as permitted under Section 501(c)(3) of the Internal Revenue Code, and this corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.
+
+Notwithstanding any other provision of these Articles, this corporation shall not carry on any activities not permitted to be carried on by a corporation exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code.
+
+### Article 5. Dissolution
+
+Upon the dissolution of this corporation, its assets remaining after payment, or provision for payment, of all debts and liabilities of this corporation shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or shall be distributed to the federal government, or to a state or local government, for a public purpose.
+
+### Article 6. Initial street address
+
+The initial street address of this corporation is:
+
+`320B 2nd Ave, San Francisco, California 94118`
+
+### Article 7. Initial mailing address
+
+The initial mailing address of this corporation, if different from the street address, is:
+
+`Same as above`
+
+### Article 8. Initial agent for service of process
+
+The name and California street address of the corporation's initial agent for service of process are:
+
+Name: `Nikita Tkachenko`
+Address: `320B 2nd Ave, San Francisco, California 94118`
+
+## Filing references
+
+- California Secretary of State ARTS-PB form: https://bpd.cdn.sos.ca.gov/corp/pdf/articles/arts-pb.pdf
+- California Corporations Code section 5130: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5130.

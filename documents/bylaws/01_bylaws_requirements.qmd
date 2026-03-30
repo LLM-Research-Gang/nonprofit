@@ -1,0 +1,65 @@
+# Bylaws: what needs to be covered
+
+## California baseline
+
+California nonprofit public benefit corporations should adopt bylaws early after formation.
+
+Key code sections:
+
+- Corp. Code § 5150: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5150
+- Corp. Code § 5151: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5151.
+- Corp. Code § 5310 (members or no members): https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5310.
+- Corp. Code § 5211 (board quorum basics): https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5211
+
+What the bylaws should cover at minimum:
+
+- whether the corporation has members or no members;
+- number of directors or method for setting that number;
+- board meetings, notices, and quorum;
+- officer roles and authority;
+- committees;
+- conflict procedures / approval mechanics;
+- indemnification;
+- amendment process.
+
+## Recommended structure for gecon.ai
+
+The simplest structure is usually:
+
+- `no members`;
+- a fixed initial board of `3` directors or a range with board authority to set the exact number;
+- standard officers: President, Secretary, Treasurer;
+- most directors independent from paid staff.
+
+California law permits one or more directors, but for a credible charity, three active directors is usually the safer governance setup.
+
+## IRS-sensitive bylaw topics
+
+The bylaws should reinforce, but not replace, the articles.
+
+Recommended provisions:
+
+- corporation operates exclusively for 501(c)(3) purposes;
+- no private inurement;
+- no substantial lobbying and no campaign intervention;
+- conflict of interest policy adoption/reference;
+- board approval and documentation for compensation;
+- dissolution process that is consistent with the articles.
+
+IRS governance references:
+
+- Form 1023 instructions: https://www.irs.gov/instructions/i1023
+- IRS conflict policy explanation: https://www.irs.gov/charities-non-profits/form-1023-purpose-of-conflict-of-interest-policy
+
+## Practical bylaw checklist
+
+- `No members` clause included.
+- Board size mechanism included.
+- Director terms and removal process included.
+- Meeting notice and quorum rules included.
+- Officer titles and appointment/removal rules included.
+- Committee authority limited appropriately.
+- Conflict of interest policy adopted or incorporated.
+- Fiscal year specified.
+- Indemnification language reviewed.
+- Amendment authority specified.

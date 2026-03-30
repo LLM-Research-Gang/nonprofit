@@ -1,0 +1,18 @@
+# Form 1023 officers, directors, and key employees attachment
+
+Use this as the working attachment for IRS filing and internal approvals.
+
+## Officers and directors table
+
+| Name | Title | Mailing address | Average hours/week | Compensation | Related to another insider? |
+|---|---|---|---:|---:|---|
+| `Nikita Tkachenko` | President / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
+| `Jake Cosgrove` | Secretary / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
+| `Alessandsa Cassar` | Treasurer / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
+
+## Notes to complete before filing
+
+- Include every director and officer.
+- Add key employees if any exist.
+- No family relationships are currently expected among insiders based on the current intake sheet.
+- If anyone is compensated, cross-reference the compensation review policy and board approval minutes.

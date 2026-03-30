@@ -1,0 +1,82 @@
+# Checklist: form a California 501(c)(3)-compliant organization for gecon.ai
+
+## Formation checklist
+
+- [ ] Confirm the legal name is available. Current working name in the draft packet: `Economics of Generative AI Research Lab`.
+- [0] Decide that the entity will be a California `Nonprofit Public Benefit Corporation`. Background: [state/01_california_formation.qmd](/documents/state/01_california_formation.qmd)
+- [0] Draft 501(c)(3)-compliant articles with narrow educational/scientific purposes and a dissolution clause. Draft: [submissions/state/03_draft_articles_ca_501c3.qmd](/submissions/state/03_draft_articles_ca_501c3.qmd)
+- [ ] File California `ARTS-PB-501(c)(3)` with the Secretary of State.
+- [ ] Obtain a filed copy of the articles.
+- [0] Adopt bylaws. Draft: [submissions/bylaws/03_draft_bylaws.qmd](/submissions/bylaws/03_draft_bylaws.qmd)
+- [0] Decide whether the corporation has members; for simplicity, use `no members` unless there is a real governance reason not to. Draft language: [submissions/bylaws/03_draft_bylaws.qmd](/submissions/bylaws/03_draft_bylaws.qmd)
+- [ ] Appoint the initial board of directors.
+- [ ] Appoint officers: President, Secretary, Treasurer at minimum.
+- [0] Prepare incorporator statement to appoint the initial board. Draft: [submissions/state/04_incorporator_statement.qmd](/submissions/state/04_incorporator_statement.qmd)
+- [0] Approve initial board resolutions: bylaws adoption, officer appointments, fiscal year, bank authority, conflict policy, and 1023 filing authorization. Draft: [submissions/state/05_draft_initial_board_consent.qmd](/submissions/state/05_draft_initial_board_consent.qmd)
+- [ ] Apply for EIN after formation.
+- [0] Prepare the information needed to file `SI-100` within 90 days after California registration. Template: [submissions/state/06_si100_information_sheet.qmd](/submissions/state/06_si100_information_sheet.qmd)
+
+## 501(c)(3) application checklist
+
+- [ ] Decide whether `Form 1023-EZ` is actually available; if not, prepare full `Form 1023`.
+- [0] Write a clean exempt-purpose narrative centered on educational and scientific research into the economics of generative AI. Drafts: [bylaws/02_gecon_ai_clause_drafts.qmd](/documents/bylaws/02_gecon_ai_clause_drafts.qmd), [submissions/irs/02_form_1023_activity_narrative.qmd](/submissions/irs/02_form_1023_activity_narrative.qmd)
+- [0] Prepare a detailed activity description for publications, seminars, datasets, research collaborations, and public education work. Draft: [submissions/irs/02_form_1023_activity_narrative.qmd](/submissions/irs/02_form_1023_activity_narrative.qmd)
+- [0] Prepare founder/board/officer list with addresses and titles. Template: [submissions/irs/03_form_1023_officers_directors_template.qmd](/submissions/irs/03_form_1023_officers_directors_template.qmd)
+- [0] Prepare conflict of interest policy. Draft: [submissions/bylaws/04_conflict_of_interest_policy.qmd](/submissions/bylaws/04_conflict_of_interest_policy.qmd)
+- [0] Prepare compensation approval process for insiders. Draft: [submissions/bylaws/05_compensation_review_policy.qmd](/submissions/bylaws/05_compensation_review_policy.qmd)
+- [0] Prepare 3-5 years of projected budgets or actual financials as required. Template: [submissions/irs/04_form_1023_budget_template.qmd](/submissions/irs/04_form_1023_budget_template.qmd)
+- [ ] Collect final articles, bylaws, and EIN for the IRS filing. Draft articles: [submissions/state/03_draft_articles_ca_501c3.qmd](/submissions/state/03_draft_articles_ca_501c3.qmd); draft bylaws: [submissions/bylaws/03_draft_bylaws.qmd](/submissions/bylaws/03_draft_bylaws.qmd)
+- [ ] File `Form 1023` or `1023-EZ` electronically through Pay.gov and pay the user fee.
+- [ ] Save a complete PDF copy of the submitted application and attachments.
+
+## California registration and tax checklist
+
+- [ ] Register with the California Attorney General within 30 days of first receiving charitable assets.
+- [0] Prepare the Attorney General initial registration packet and cover note. Draft: [submissions/state/07_attorney_general_initial_registration_packet.qmd](/submissions/state/07_attorney_general_initial_registration_packet.qmd)
+- [ ] Upload or submit founding documents and current bylaws to the Attorney General. Drafts: [submissions/state/03_draft_articles_ca_501c3.qmd](/submissions/state/03_draft_articles_ca_501c3.qmd), [submissions/bylaws/03_draft_bylaws.qmd](/submissions/bylaws/03_draft_bylaws.qmd)
+- [ ] Submit IRS determination letter to the Attorney General once received, if not available at initial filing.
+- [ ] After IRS approval, file `FTB 3500A` with a copy of the IRS determination letter.
+- [ ] Save the FTB acknowledgment of California exemption.
+
+## Governance checklist
+
+- [0] Prepare board written consent / minute substitute for initial approvals. Draft: [submissions/state/05_draft_initial_board_consent.qmd](/submissions/state/05_draft_initial_board_consent.qmd)
+- [0] Require directors/officers to disclose conflicts annually and transaction-by-transaction. Draft policy and disclosure form: [submissions/bylaws/04_conflict_of_interest_policy.qmd](/submissions/bylaws/04_conflict_of_interest_policy.qmd)
+- [ ] Do not allow net earnings to benefit founders, directors, or other insiders except reasonable compensation.
+- [ ] Avoid political campaign activity entirely.
+- [ ] Keep lobbying insubstantial unless separately analyzed and tracked.
+- [ ] Review any related-party contract before approval.
+- [ ] Keep research/publication decisions independent from private interests and aligned with the stated educational and scientific mission.
+
+## Operational readiness checklist
+
+- [0] Prepare bank authority language for account opening. Draft: [submissions/state/05_draft_initial_board_consent.qmd](/submissions/state/05_draft_initial_board_consent.qmd)
+- [ ] Set up accounting/bookkeeping.
+- [0] Create a donation receipt and acknowledgment process. Template: [submissions/other/03_donation_acknowledgment_template.qmd](/submissions/other/03_donation_acknowledgment_template.qmd)
+- [ ] Set the fiscal year.
+- [ ] Create a records folder for articles, bylaws, IRS, FTB, AG, board minutes, and annual filings.
+- [ ] Make website/public messaging consistent with the exempt mission.
+- [ ] Do not conduct consulting, startup, product, or other company-like activity through the nonprofit.
+
+## Ongoing compliance checklist
+
+- [ ] File IRS `990-N`, `990-EZ`, or `990` each year by the 15th day of the 5th month after year-end.
+- [ ] File California AG `RRF-1` annually by 4 months and 15 days after year-end.
+- [ ] File California `CT-TR-1` or include the required IRS return copy if applicable under AG rules.
+- [ ] File California `SI-100` every two years and whenever key information changes.
+- [ ] File `Form 199` or `FTB 199N` as required by the FTB.
+- [ ] Evaluate `990-T` / California unrelated business income filings if the organization earns non-exempt business income.
+- [ ] Re-check BOI/CTA rules before relying on current exemption status.
+
+## Best current fit for gecon.ai
+
+Based on the adjacent `lab-website` materials, the strongest 501(c)(3) posture is:
+
+- educational and scientific nonprofit;
+- public-facing research and dissemination;
+- no private ownership;
+- no equity-style upside for founders;
+- purely educational and scientific activity;
+- student participation in the research process;
+- contribution of methodology, datasets, benchmarks, and public research;
+- no consulting, product development, or other company-like activity.

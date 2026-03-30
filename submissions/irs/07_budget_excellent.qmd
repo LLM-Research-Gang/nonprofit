@@ -1,0 +1,32 @@
+This scenario reflects a high-output lean lab with strong field visibility, frequent dissemination, and larger human-subjects capacity.
+
+### Year 1
+
+#### Revenue
+
+- Individual contributions: `$30,000`
+- Foundation grants: `$40,000`
+- Research support / grants: `$30,000`
+- Other contributions: `$10,000`
+
+Total revenue: `$110,000`
+
+#### Expenses
+
+- Human experiments: `$50,000`
+- Publishing / open access: `$15,000`
+- Website / software / tools: `$5,000`
+- Professional fees: `$3,000`
+- Travel: `$15,000`
+- Events / workshops: `$10,000`
+- Contractors / research support: `$7,000`
+- Insurance / admin / other: `$5,000`
+
+Total expenses: `$110,000`
+
+Net: `$0`
+
+### Notes
+
+- This scenario supports a high-output research lab with stronger field presence and more ambitious dissemination.
+- It is appropriate only for full `Form 1023`, not `1023-EZ`.

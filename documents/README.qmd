@@ -1,0 +1,49 @@
+# Nonprofit research packet for `gecon.ai`
+
+This folder is organized by workstream.
+
+## Start here
+
+- Checklist: [`CHECKLIST_501c3_CA.md`](/documents/CHECKLIST_501c3_CA.qmd)
+
+## Federal / IRS research
+
+- [`irs/01_federal_formation_and_501c3.md`](/documents/irs/01_federal_formation_and_501c3.qmd)
+
+## California research
+
+- [`state/01_california_formation.md`](/documents/state/01_california_formation.qmd)
+- [`state/02_california_ongoing_compliance.md`](/documents/state/02_california_ongoing_compliance.qmd)
+
+## Bylaws / drafting research
+
+- [`bylaws/01_bylaws_requirements.md`](/documents/bylaws/01_bylaws_requirements.qmd)
+- [`bylaws/02_gecon_ai_clause_drafts.md`](/documents/bylaws/02_gecon_ai_clause_drafts.qmd)
+
+## Other research
+
+- [`other/01_operational_notes.md`](/documents/other/01_operational_notes.qmd)
+- [`other/02_regulatory_notes.md`](/documents/other/02_regulatory_notes.qmd)
+
+## Submission drafts
+
+- [`submissions/state/03_draft_articles_ca_501c3.md`](/submissions/state/03_draft_articles_ca_501c3.qmd)
+- [`submissions/state/04_incorporator_statement.md`](/submissions/state/04_incorporator_statement.qmd)
+- [`submissions/state/05_draft_initial_board_consent.md`](/submissions/state/05_draft_initial_board_consent.qmd)
+- [`submissions/state/06_si100_information_sheet.md`](/submissions/state/06_si100_information_sheet.qmd)
+- [`submissions/state/07_attorney_general_initial_registration_packet.md`](/submissions/state/07_attorney_general_initial_registration_packet.qmd)
+- [`submissions/bylaws/03_draft_bylaws.md`](/submissions/bylaws/03_draft_bylaws.qmd)
+- [`submissions/bylaws/04_conflict_of_interest_policy.md`](/submissions/bylaws/04_conflict_of_interest_policy.qmd)
+- [`submissions/bylaws/05_compensation_review_policy.md`](/submissions/bylaws/05_compensation_review_policy.qmd)
+- [`submissions/irs/02_form_1023_activity_narrative.md`](/submissions/irs/02_form_1023_activity_narrative.qmd)
+- [`submissions/irs/03_form_1023_officers_directors_template.md`](/submissions/irs/03_form_1023_officers_directors_template.qmd)
+- [`submissions/irs/04_form_1023_budget_template.md`](/submissions/irs/04_form_1023_budget_template.qmd)
+- [`submissions/other/03_donation_acknowledgment_template.md`](/submissions/other/03_donation_acknowledgment_template.qmd)
+
+## What I used from adjacent projects
+
+I reviewed the `lab-website` project one directory up and used its public-facing mission language as context for the recommended 501(c)(3) framing:
+
+- AI economics research
+- generative AI as both subject and tool of research
+- public education / collaboration / dissemination

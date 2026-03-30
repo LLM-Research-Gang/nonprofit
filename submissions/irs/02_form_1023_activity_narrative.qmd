@@ -1,0 +1,97 @@
+# Form 1023 activity narrative
+
+## Organization overview
+
+`Economics of Generative AI Research Lab` is a California nonprofit public benefit corporation organized exclusively for educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.
+
+The corporation's mission is to advance public understanding of how large language models and AI agents affect economic behavior, decision-making, and institutions. The organization conducts independent educational and scientific research on the emerging agent economy, including how AI agents behave, how they interact with one another, and how they interact with humans as they become increasingly embedded in modern economic life.
+
+The organization is operated exclusively for educational and scientific purposes and does not intend to conduct consulting, product development, licensing, paid private-client research, or other commercial business activity.
+
+## Activity 1. Research on agents as objects of study
+
+The organization studies AI agents themselves as objects of educational and scientific research. This includes research on the preferences, decision-making patterns, and biases of large language models and related agentic systems, as well as differences across architectures, prompting conditions, and deployment contexts.
+
+Activities may include:
+
+- designing and conducting experiments involving language models and agentic systems;
+- comparing revealed and stated preferences in language models;
+- studying bias, preference formation, and decision-making behavior across models;
+- preparing papers, research memoranda, and methodological materials for public dissemination.
+
+Representative current or near-term work includes `Model Personality Trumps Persona Prompting: Evidence from Controlled Prompting Experiments` and related research on preferences, behavior, and methodological interpretation.
+
+This activity is expected to account for approximately 35 percent of the organization's time and resources in the first year. It will be conducted primarily by directors, collaborating academic colleagues, and student researchers.
+
+## Activity 2. Research on agent-to-agent interaction and the emerging agent economy
+
+The organization studies how AI agents interact with one another and how these interactions may produce system-level outcomes in an emerging agent economy. The educational and scientific purpose of this work is to improve understanding of how agent behavior scales from individual systems to interactive and market-like environments.
+
+Activities may include:
+
+- conceptual and empirical work on agent-to-agent interaction;
+- development of research agendas, benchmarks, and datasets related to multi-agent systems;
+- simulations, negotiation environments, and other structured interaction settings;
+- preparation of agenda-setting papers and public research outputs on LLMs as economic agents.
+
+Representative topics include price formation in multi-agent language-model markets, repeated negotiation games, and the evolution of strategy and knowledge in multi-agent settings.
+
+This activity is expected to account for approximately 30 percent of the organization's time and resources in the first year. It will be conducted primarily by directors and academic collaborators.
+
+## Activity 3. Research on human-agent interaction and public perception
+
+The organization studies how humans perceive, evaluate, trust, and respond to AI agents and AI-generated outputs, especially as the agent economy increasingly overlaps with the human economy. This research advances educational and scientific purposes by contributing evidence about human interaction with emerging technologies and the social interpretation of agent behavior.
+
+Activities may include:
+
+- pilot studies and experiments involving human subjects, subject to appropriate review and approval where required;
+- research design, survey development, and literature review;
+- analysis of how different populations perceive and engage with agents;
+- public dissemination of findings through papers, lectures, workshops, and research summaries.
+
+Representative current or near-term work includes `AI or Not? Human Inability to Reliably Detect AI-Generated Content` and related work on trust, acceptance, and response to AI systems.
+
+This activity is expected to account for approximately 20 percent of the organization's time and resources in the first year. It will be conducted primarily by directors and student researchers, including pilot work and experimental preparation.
+
+## Activity 4. Methodology, benchmarks, and research quality
+
+The organization develops methodologies, benchmarks, and reproducibility-oriented research practices for studying language models and AI agents. This is a central public-benefit function because the field is expanding quickly and often lacks shared standards for replication, interpretation, and comparison across systems.
+
+Activities may include:
+
+- methodological papers and replication-oriented studies;
+- benchmark development;
+- guidance on reproducibility, inference configuration, and experimental design;
+- educational materials that improve research practice in the field.
+
+This activity will be carried out across the organization's substantive research areas and is expected to overlap with each of the activities above.
+
+## Public dissemination and educational engagement
+
+The organization intends to publish papers, working papers, public research summaries, and methodological materials, and may also present work through workshops and lectures. Its educational approach includes involving students directly in the research process and making research outputs available to appropriate public and academic audiences.
+
+## Revenue sources
+
+Expected revenue sources may include:
+
+- founder donations;
+- research grants;
+- foundation grants.
+
+The organization does not intend to conduct commercial activity, including consulting services, product development, licensing businesses, or other company-like operations. Its activities are limited to research, education, publication, and related exempt functions.
+
+The organization may collaborate with academic institutions, nonprofit organizations, and, in limited ways, for-profit companies where such collaboration advances public-interest research. Any interaction with for-profit companies will be structured so that private parties do not control research conclusions, research design, or publication decisions.
+
+## Compensation and private benefit
+
+The organization does not currently plan to compensate directors or officers during the first 12 months. If compensation is ever introduced, it will be set under a documented review process using disinterested approval and reasonableness standards.
+
+No part of the organization's net earnings will inure to insiders. The organization will not be operated for the benefit of founders, directors, donors, or any other private party.
+
+## Political activity and lobbying
+
+The organization will not participate or intervene in political campaigns. It will not devote a substantial part of its activities to lobbying.
+
+## Geographic scope
+
+Activities will primarily be conducted in the United States through online collaboration, academic collaboration, and work connected to the San Francisco principal office.

@@ -1,0 +1,60 @@
+# Other operational notes
+
+## Banking and finance
+
+After incorporation and EIN issuance, most banks will want:
+
+- filed articles;
+- EIN confirmation;
+- bylaws;
+- board resolution authorizing account opening;
+- IDs for authorized signers.
+
+Create early:
+
+- chart of accounts;
+- donation receipt workflow;
+- reimbursement policy;
+- expense approval policy;
+- annual budget.
+
+## Public charity positioning
+
+Unless `gecon.ai` will be funded primarily by one founder or family, it should generally aim to qualify as a public charity rather than a private foundation.
+
+That means the fundraising and grant strategy should be documented early:
+
+- diverse donations;
+- university/nonprofit grants;
+- research grants;
+- broad public educational activity.
+
+## Website / messaging alignment
+
+The adjacent `lab-website` project already describes:
+
+- public-facing research;
+- collaboration with researchers and institutions;
+- educational/scientific themes;
+- noncommercial mission language.
+
+That is helpful for a 501(c)(3) application as long as public materials stay consistent with the governing documents and actual operations.
+
+## Donations and acknowledgments
+
+Useful IRS page:
+
+- Publication 1771 reference hub appears from the Form 1023 page: https://www.irs.gov/forms-pubs/about-form-1023
+
+Operationally, be ready to issue proper written acknowledgments for charitable contributions and to track restricted vs. unrestricted funds.
+
+## Employment / contractors
+
+If the organization hires staff or contractors, add:
+
+- payroll setup;
+- workers' comp review;
+- state employer registrations;
+- written IP/confidentiality agreements where appropriate.
+
+These are operational items, not prerequisites to incorporation itself.

@@ -1,0 +1,76 @@
+# Conflict of Interest Policy
+
+## 1. Purpose
+
+The purpose of this policy is to protect the interests of `Economics of Generative AI Research Lab` when it is considering a transaction or arrangement that may benefit the private interest of a director, officer, key employee, or other person in a position to exercise substantial influence over the affairs of the corporation.
+
+## 2. Covered persons
+
+This policy applies to directors, officers, committee members with board-delegated powers, key employees, and any other person designated by the Board.
+
+## 3. Conflict of interest
+
+A conflict of interest exists when a covered person has a direct or indirect financial interest, personal interest, or organizational loyalty that may interfere with the person's ability to act solely in the best interests of the corporation.
+
+Examples include:
+
+- ownership or compensation interest in an entity doing business with the corporation;
+- family relationship with a person receiving compensation or economic benefit from the corporation;
+- personal benefit from a grant, contract, publication arrangement, or vendor selection;
+- research or consulting ties that could affect the independence of the corporation's work.
+
+## 4. Duty to disclose
+
+Covered persons shall disclose actual, potential, and apparent conflicts to the Board or relevant committee before discussion or decision on the matter.
+
+## 5. Determination procedure
+
+After disclosure of the material facts, the interested person shall leave the meeting while the remaining disinterested directors discuss and determine whether a conflict exists and, if so, whether the proposed transaction is fair, reasonable, and in the corporation's best interests.
+
+## 6. Approval standard
+
+The Board may approve the transaction only if:
+
+- the material facts have been fully disclosed;
+- disinterested directors determine in good faith that the transaction is in the corporation's best interests;
+- the transaction is fair and reasonable;
+- comparable alternatives have been considered where appropriate;
+- the decision is documented in the minutes.
+
+## 7. Compensation matters
+
+A voting member of the Board who receives compensation from the corporation may provide factual information regarding compensation arrangements but shall not vote on that person's own compensation.
+
+## 8. Annual statements
+
+Each covered person shall annually sign a statement affirming that the person:
+
+- received a copy of this policy;
+- read and understands the policy;
+- agrees to comply with the policy; and
+- understands that the corporation must operate in a manner consistent with its charitable and tax-exempt purposes.
+
+## 9. Violations
+
+If the Board has reasonable cause to believe a covered person failed to disclose an actual or possible conflict, the Board shall inform the person of the basis for that belief and allow an opportunity to explain. If, after investigation, the Board determines a violation occurred, it may take appropriate corrective action.
+
+## 10. Records
+
+The minutes of Board and committee meetings shall contain:
+
+- the name of the person who disclosed or was found to have a conflict;
+- the nature of the conflict;
+- the action taken to determine whether a conflict existed;
+- the final decision and vote.
+
+## Annual disclosure form
+
+Name: `[NAME]`
+
+Role: `[ROLE]`
+
+Disclosed entities / relationships: `[LIST OR NONE]`
+
+Signature: `____________________________`
+
+Date: `[DATE]`

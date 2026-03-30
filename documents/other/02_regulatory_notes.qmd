@@ -1,0 +1,39 @@
+# Other regulatory notes
+
+## BOI / Corporate Transparency Act
+
+As of the FinCEN materials updated in March 2025, domestic entities created in the United States are exempt from BOI reporting under the revised rule.
+
+Official source:
+
+- FinCEN FAQ PDF: https://www.fincen.gov/system/files/shared/BOI-FAQs-QA-508C.pdf
+
+This can change again, so re-check before filing or relying on it.
+
+## California sales tax is separate
+
+State income-tax exemption is not the same thing as sales-tax exemption.
+
+Official FTB reminder:
+
+- FTB 3500A instructions: https://www.ftb.ca.gov/forms/misc/3500A-instructions.html
+
+That page explicitly says not to use `FTB 3500A` for California sales-tax exemptions and directs organizations to CDTFA.
+
+Practical meaning:
+
+- a 501(c)(3) is not automatically exempt from California sales/use tax in all contexts.
+
+## Property tax
+
+Property-tax relief is a separate analysis, often through the welfare exemption framework if the organization owns and uses qualifying property.
+
+Official BOE resources start here:
+
+- https://www.boe.ca.gov/
+
+## Multistate fundraising
+
+If `gecon.ai` solicits donations outside California, charitable registration rules in other states may apply even if the organization is California-based.
+
+This becomes relevant once fundraising is national rather than local/institutional.

@@ -1,0 +1,80 @@
+This scenario is designed to remain consistent with a `1023-EZ` posture by keeping projected annual gross receipts under `$50,000` in each of the next 3 years.
+
+### Year 1
+
+#### Revenue
+
+- Founder donations: `$15,000`
+- Foundation grants: `$10,000`
+- Other contributions: `$5,000`
+
+Total revenue: `$30,000`
+
+#### Expenses
+
+- Human experiments: `$15,000`
+- Publishing / open access: `$3,000`
+- Website / software / tools: `$2,000`
+- Professional fees: `$2,000`
+- Travel: `$4,000`
+- Events / workshops: `$2,000`
+- Insurance / admin / other: `$2,000`
+
+Total expenses: `$30,000`
+
+Net: `$0`
+
+### Year 2
+
+#### Revenue
+
+- Individual contributions: `$15,000`
+- Foundation grants: `$15,000`
+- Research support / grants: `$10,000`
+- Other contributions: `$5,000`
+
+Total revenue: `$45,000`
+
+#### Expenses
+
+- Human experiments: `$22,000`
+- Publishing / open access: `$5,000`
+- Website / software / tools: `$3,000`
+- Professional fees: `$2,000`
+- Travel: `$6,000`
+- Events / workshops: `$4,000`
+- Insurance / admin / other: `$3,000`
+
+Total expenses: `$45,000`
+
+Net: `$0`
+
+### Year 3
+
+#### Revenue
+
+- Individual contributions: `$15,000`
+- Foundation grants: `$15,000`
+- Research support / grants: `$10,000`
+- Other contributions: `$8,000`
+
+Total revenue: `$48,000`
+
+#### Expenses
+
+- Human experiments: `$24,000`
+- Publishing / open access: `$6,000`
+- Website / software / tools: `$3,000`
+- Professional fees: `$2,000`
+- Travel: `$7,000`
+- Events / workshops: `$4,000`
+- Insurance / admin / other: `$2,000`
+
+Total expenses: `$48,000`
+
+Net: `$0`
+
+### Notes
+
+- This scenario is the only one in this packet designed to stay within `1023-EZ` gross-receipts assumptions.
+- It supports a lean research program while preserving `1023-EZ` eligibility assumptions on projected receipts.

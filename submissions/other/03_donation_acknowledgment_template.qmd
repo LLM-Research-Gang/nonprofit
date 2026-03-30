@@ -1,0 +1,21 @@
+# Donation acknowledgment template
+
+**Economics of Generative AI Research Lab**
+
+Date: `[DATE]`
+
+Dear `[DONOR NAME]`,
+
+Thank you for your contribution to `Economics of Generative AI Research Lab` in the amount of `$[AMOUNT]` received on `[DATE]`.
+
+No goods or services were provided in exchange for this contribution, other than intangible religious benefits, if any.
+
+`[OR, IF SOMETHING WAS PROVIDED: The estimated fair market value of goods or services provided in exchange for this contribution was $[AMOUNT].]`
+
+Your support helps advance educational and scientific research on the economics of generative artificial intelligence and related technologies.
+
+Sincerely,
+
+`[NAME]`
+
+`[TITLE]`

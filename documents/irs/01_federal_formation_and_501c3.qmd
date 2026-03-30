@@ -1,0 +1,121 @@
+# IRS: federal formation and 501(c)(3) recognition
+
+This packet is geared to a California nonprofit public benefit corporation for `gecon.ai`, framed as an educational and scientific research organization.
+
+## Core federal sequence
+
+1. Form the legal entity first.
+2. Get an EIN from the IRS.
+3. Prepare governing documents so they satisfy the 501(c)(3) organizational test.
+4. File Form 1023 or, if eligible, Form 1023-EZ through Pay.gov.
+5. After IRS approval, keep filing annual IRS returns (`990-N`, `990-EZ`, or `990`) on time.
+
+## What the IRS requires in organizing documents
+
+The IRS organizational test requires the articles to:
+
+- limit the corporation's purposes to one or more exempt purposes under section 501(c)(3);
+- avoid expressly authorizing substantial non-exempt activity; and
+- dedicate assets to an exempt purpose on dissolution.
+
+Key source:
+
+- IRS Publication 557: https://www.irs.gov/publications/p557
+
+Useful excerpts summarized from Pub. 557:
+
+- A purpose like "research" by itself is too broad; the purpose should be limited to charitable, educational, and/or scientific purposes.
+- The limitation must be in the articles, not only in bylaws.
+- Dissolution language must send assets to another 501(c)(3) or to government for a public purpose.
+
+## EIN
+
+- IRS EIN guidance: https://www.irs.gov/charities-non-profits/obtaining-an-employer-identification-number-for-an-exempt-organization
+- Apply online: https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online
+
+Important IRS note: do not apply for an EIN until the organization is legally formed.
+
+## Form 1023 vs. Form 1023-EZ
+
+- About Form 1023: https://www.irs.gov/forms-pubs/about-form-1023
+- Instructions for Form 1023: https://www.irs.gov/instructions/i1023
+- Form 1023 user fee page: https://www.irs.gov/charities-non-profits/form-1023-and-1023-ez-amount-of-user-fee
+
+Current IRS user fees shown on the IRS site:
+
+- Form 1023: `$600`
+- Form 1023-EZ: `$275`
+
+Both are filed electronically through Pay.gov.
+
+## What Form 1023 will ask for
+
+Expect to provide:
+
+- articles of incorporation and amendments;
+- bylaws;
+- EIN;
+- names and addresses of officers/directors/trustees;
+- detailed narrative of activities;
+- compensation and conflict-of-interest information;
+- financials or multi-year budgets;
+- public charity classification support.
+
+Useful IRS pages:
+
+- Form 1023 FAQ: https://www.irs.gov/charities-non-profits/frequently-asked-questions-about-form-1023
+- Required financial information: https://www.irs.gov/charities-non-profits/form-1023-required-financial-information
+- Compensation / related-party info: https://www.irs.gov/charities-non-profits/form-1023-required-information-about-compensation-and-other-financial-information
+
+## Governance items the IRS strongly expects
+
+The IRS does not require every policy below by statute, but these are standard and materially help a 501(c)(3) application:
+
+- conflict of interest policy;
+- board review of compensation for insiders;
+- minutes documenting approvals;
+- document retention and whistleblower policies as governance best practice.
+
+IRS conflict policy resources:
+
+- Sample conflict policy in Form 1023 instructions appendix: https://www.irs.gov/instructions/i1023
+- IRS explanation of why it matters: https://www.irs.gov/charities-non-profits/form-1023-purpose-of-conflict-of-interest-policy
+
+## Ongoing IRS filing
+
+Annual federal filings are generally due on the 15th day of the 5th month after year-end.
+
+- Return due dates: https://www.irs.gov/charities-non-profits/return-due-dates-for-exempt-organizations-annual-return
+- Form 990-N guidance: https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard
+
+Practical threshold:
+
+- normally `<= $50,000` gross receipts: usually `990-N`;
+- larger orgs: `990-EZ` or `990`.
+
+Failure to file for 3 consecutive years causes automatic revocation of federal exempt status.
+
+## Recommended federal framing for gecon.ai
+
+For IRS purposes, the cleanest framing is:
+
+- educational;
+- scientific;
+- charitable only if activities clearly fit charitable research/public education access.
+
+For `gecon.ai`, the strongest exempt narrative is likely:
+
+- conducting scientific and educational research on the economics of generative AI;
+- publishing findings for public benefit;
+- running educational programs, talks, workshops, datasets, and open research outputs;
+- avoiding private benefit to founders, investors, or commercial AI companies.
+
+## Draft activity narrative points for Form 1023
+
+Use a version of the following if accurate:
+
+- The corporation conducts independent research on the economic effects of generative AI systems.
+- It publishes papers, datasets, explainers, public reports, and educational materials for researchers, students, policymakers, and the public.
+- It may host seminars, workshops, and public lectures.
+- It may support research collaborations with universities and nonprofit institutions.
+- Any software, data, or educational tools are used to further educational and scientific purposes rather than private commercial gain.

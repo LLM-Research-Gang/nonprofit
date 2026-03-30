@@ -1,0 +1,107 @@
+# California: formation requirements
+
+## 1. Form a California nonprofit public benefit corporation
+
+For a 501(c)(3) in California, the usual entity is a `Nonprofit Public Benefit Corporation`.
+
+Official California Secretary of State form/instructions:
+
+- ARTS-PB-501(c)(3) instructions PDF: https://bpd.cdn.sos.ca.gov/corp/pdf/articles/arts-pb.pdf
+- California nonprofit public benefit corporation law overview: https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CORP&division=2.&title=1.&part=2.
+
+The California Secretary of State instructions state:
+
+- use this form for corporations seeking federal 501(c)(3) status;
+- filing fee for the articles is `$30`.
+
+## 2. What California articles must include
+
+California Corporations Code section 5130 requires the articles to include:
+
+- corporate name;
+- statement that it is a nonprofit public benefit corporation not organized for private gain;
+- California agent for service of process;
+- initial street address;
+- initial mailing address, if different.
+
+Source:
+
+- Corp. Code § 5130: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=5130.
+
+For a 501(c)(3), the practical filing approach is to use the California SOS 501(c)(3)-specific public benefit form so the IRS-friendly purpose and dedication concepts are built in.
+
+## 3. Initial Statement of Information
+
+After formation, California nonprofit corporations must file `Form SI-100`.
+
+Official sources:
+
+- Secretary of State FAQ: https://www.sos.ca.gov/business-programs/business-entities/faqs
+- SOS welcome letter summary PDF: https://bpd.cdn.sos.ca.gov/bizfile/welcome-letter-corp.pdf
+
+Timing:
+
+- initial filing within `90 days` of registration;
+- then every `2 years` in the applicable filing window based on registration date.
+
+Current fee references on SOS pages indicate `SI-100` is generally `$20`.
+
+## 4. Attorney General charitable registration
+
+California charitable corporations must register with the Attorney General's Registry of Charities and Fundraisers.
+
+Official page:
+
+- Initial registration: https://oag.ca.gov/charities/initial-reg
+- Paper filing page: https://oag.ca.gov/charities/initial-reg-paper
+
+Timing:
+
+- register within `30 days` of first receiving charitable assets.
+
+Current AG page says the initial registration fee is `$50`.
+
+The AG page says to submit:
+
+- founding documents;
+- current bylaws;
+- IRS determination letter, if received;
+- copy of Form 1023 / 1023-EZ / 1024 if filed;
+- FEIN if IRS determination is still pending.
+
+## 5. California state tax exemption
+
+California tax exemption is not automatic just because the corporation is nonprofit.
+
+Official FTB sources:
+
+- FTB 3500A instructions: https://www.ftb.ca.gov/forms/misc/3500A-instructions.html
+- FTB 3500 booklet: https://www.ftb.ca.gov/forms/misc/3500-booklet.html
+
+Practical rule:
+
+- if the IRS has already approved 501(c)(3) status, usually submit `FTB 3500A` with the federal determination letter;
+- if no federal determination letter exists yet and state exemption is needed, use `FTB 3500`.
+
+Important FTB point:
+
+- California entities remain taxable until the FTB grants exempt status.
+
+The FTB eliminated the prior application fee for exempt organization applications.
+
+Source:
+
+- FTB bulletin on fee elimination: https://www.ftb.ca.gov/about-ftb/newsroom/public-service-bulletins/2020-32-tax-exempt-organization-application-fee-and-filing-fees-eliminated.html
+
+## 6. Practical California order of operations
+
+Recommended order:
+
+1. Reserve/confirm the name if needed.
+2. File `ARTS-PB-501(c)(3)` with the California Secretary of State.
+3. Adopt bylaws and appoint the initial board/officers.
+4. Get EIN.
+5. File `SI-100` within 90 days.
+6. File IRS Form 1023 or 1023-EZ.
+7. Register with the California Attorney General within 30 days of receiving charitable assets.
+8. After federal approval, file `FTB 3500A` with the IRS determination letter.

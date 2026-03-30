@@ -1,0 +1,31 @@
+This scenario reflects a sustainable research engine with regular output and moderate field visibility.
+
+### Year 1
+
+#### Revenue
+
+- Founder donations: `$20,000`
+- Foundation grants: `$20,000`
+- Research support / grants: `$10,000`
+- Other contributions: `$5,000`
+
+Total revenue: `$55,000`
+
+#### Expenses
+
+- Human experiments: `$25,000`
+- Publishing / open access: `$7,000`
+- Website / software / tools: `$3,000`
+- Professional fees: `$2,000`
+- Travel: `$8,000`
+- Events / workshops: `$4,000`
+- Insurance / admin / other: `$6,000`
+
+Total expenses: `$55,000`
+
+Net: `$0`
+
+### Notes
+
+- This scenario supports 2 to 4 papers per year.
+- Because projected receipts exceed `$50,000`, it is more consistent with full `Form 1023` than `1023-EZ`.

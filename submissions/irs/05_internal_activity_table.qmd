@@ -1,0 +1,20 @@
+# Internal activity table for lawyer review
+
+This is an internal working summary of the first-year activity mix reflected in the narrative draft.
+
+| Activity | Description | Who does it | Where | Frequency | Year 1 resources |
+|---|---|---|---|---|---:|
+| Agents as objects of study | Research on preferences, decision-making, and biases of LLMs and related agentic systems | Directors, academic collaborators, student researchers | Collaboration / academic settings | Ongoing | 35% |
+| Agent-to-agent interaction | Research agenda development, simulations, benchmarks, and conceptual work on the emerging agent economy | Directors and academic collaborators | Collaboration / academic settings | Ongoing | 30% |
+| Human-agent interaction | AI-or-Not pilot work, experimental preparation, and related research on trust, perception, and interaction | Student researchers and directors | Primarily online | Ongoing | 20% |
+| Methodology and research quality | Reproducibility guidance, benchmark design, and methodological work spanning the other activities | Directors and collaborators | Online and collaboration | Ongoing | 15% |
+
+## Supporting factual notes
+
+- Public outputs expected in year 1: `1-2 papers`, working papers, and methodological materials as feasible
+- Events expected in year 1: `workshops and lectures`
+- Student participation: may include research assistant, volunteer, fellow, workshop participant, or coauthor roles depending on collaboration structure
+- No planned director or officer compensation in year 1
+- No planned grants or fellowships in year 1
+- No planned software/tool development in year 1
+- No planned consulting, paid private-client research, product sales, licensing business, or startup activity

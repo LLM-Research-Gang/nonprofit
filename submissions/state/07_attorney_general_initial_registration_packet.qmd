@@ -1,0 +1,37 @@
+# California Attorney General initial registration packet
+
+Official page:
+
+- https://oag.ca.gov/charities/initial-reg
+
+## Packet checklist
+
+- Initial registration filing through the Attorney General portal or paper packet
+- Filed articles of incorporation
+- Current bylaws
+- EIN confirmation
+- IRS Form 1023 or 1023-EZ copy, if already filed
+- IRS determination letter, if already received
+- Registration fee shown on the AG page
+
+## Cover note template
+
+**Re: Initial Registration of Economics of Generative AI Research Lab**
+
+To the Registry of Charities and Fundraisers:
+
+Enclosed or uploaded please find the initial registration materials for `Economics of Generative AI Research Lab`, a California nonprofit public benefit corporation organized for educational and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.
+
+Included are the corporation's governing documents and related materials as available on the date of filing. If the IRS determination letter is not yet available, it will be submitted upon receipt.
+
+Please direct correspondence regarding this filing to:
+
+`[NAME]`
+
+`[TITLE]`
+
+`[EMAIL]`
+
+`[PHONE]`
+
+`320B 2nd Ave, San Francisco, California 94118`

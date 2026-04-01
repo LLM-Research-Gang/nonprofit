@@ -8,13 +8,17 @@ Public-facing brand:
 
 - `gecon.ai`
 
+## Public-facing version
+
+`Economics of Generative AI Research Lab studies how large language models and AI agents affect economic behavior, decision-making, and institutions. We conduct independent educational and scientific research with a primary focus on papers, while also contributing rigorous methods, modern research workflows, and operational practices for a rapidly emerging field.`
+
 ## Mission
 
-The mission of the lab is to advance public understanding of how large language models and AI agents affect economic behavior, institutions, and decision-making. The lab conducts independent educational and scientific research on the emerging agent economy, including how AI agents behave, how they interact with one another, and how they interact with humans as they become increasingly embedded in modern economic life.
+The mission of the lab is to advance public understanding of how large language models and AI agents affect economic behavior, institutions, and decision-making. The lab conducts independent educational and scientific research on the emerging agent economy, with a primary focus on producing papers and related scholarship on how AI agents behave, how they interact with one another, and how they interact with humans as they become increasingly embedded in modern economic life.
 
 ## Vision
 
-The long-run vision is to help build a rigorous field of research around the economics of generative AI and AI agents. The lab aims to become a trusted source of public-interest research, methodology, and evidence in an area that is expanding rapidly but still lacks shared standards, reproducible methods, and durable conceptual frameworks.
+The long-run vision is to help build a rigorous field of research around the economics of generative AI and AI agents. The lab aims to become a trusted source of public-interest scholarship, methodology, and evidence in an area that is expanding rapidly but still lacks shared standards, reproducible methods, durable conceptual frameworks, and strong research operations.
 
 ## Problem statement
 
@@ -26,13 +30,13 @@ The current field is moving quickly, but several problems remain:
 - the economic preferences and decision-making patterns of agents are still poorly understood;
 - agent-to-agent interaction may generate emergent system-level outcomes that are not obvious from studying single models in isolation;
 - human-agent interaction raises questions about trust, perception, bias, and representation;
-- methodological standards for reproducibility, benchmarking, and interpretation remain weak in many parts of the literature.
+- methodological standards for reproducibility and interpretation remain weak in many parts of the literature.
 
 The lab exists to address these gaps through rigorous, public-facing research.
 
 ## Why a nonprofit
 
-The nonprofit structure is appropriate because the lab is intended to produce public-benefit research rather than private commercial products or private-client services. Its goal is to generate knowledge, improve research quality, train students through participation in research, and contribute methods, benchmarks, datasets, and findings that are broadly useful to researchers, educators, policymakers, and the public.
+The nonprofit structure is appropriate because the lab is intended to produce public-benefit research rather than private commercial products or private-client services. Its goal is to generate knowledge, publish openly, improve research quality, and train students through participation in research. The lab is designed to create public outputs that are broadly useful to researchers, educators, policymakers, and public-interest institutions.
 
 The lab is not intended to operate as:
 
@@ -41,11 +45,13 @@ The lab is not intended to operate as:
 - a startup incubator;
 - a paid private-client research shop.
 
-The nonprofit form supports independence, public dissemination, student engagement, and credibility with academic, philanthropic, and public-interest funders.
+The nonprofit form supports independence, open dissemination, student engagement, and credibility with academic, philanthropic, and public-interest funders.
 
-## Core research areas
+## Research focus
 
-### 1. Agents as objects of research
+These areas support one central identity: a paper-producing research lab focused on the economics of LLMs and AI agents, with a secondary contribution to research methods and lab practice.
+
+### Agents as objects of research
 
 The lab studies AI agents themselves as objects of inquiry. This includes:
 
@@ -55,9 +61,7 @@ The lab studies AI agents themselves as objects of inquiry. This includes:
 - inherent and contextual biases;
 - differences across architectures and prompting conditions.
 
-This area is motivated by the idea that agents may display systematic patterns of choice and bias that must be understood before they can be used reliably in research or economic settings.
-
-### 2. Agent-to-agent interaction
+### Agent-to-agent interaction
 
 The lab studies how AI agents behave in agentic economies and multi-agent systems. This includes:
 
@@ -67,30 +71,24 @@ The lab studies how AI agents behave in agentic economies and multi-agent system
 - market-like interaction;
 - price formation and other emergent outcomes.
 
-The focus is not only on individual agent behavior, but also on how interaction produces system-level effects.
+### Human-agent interaction
 
-### 3. Human-agent interaction
-
-The lab studies how humans perceive, evaluate, trust, and respond to AI agents, especially where the agent economy overlaps with the human economy. This includes:
+The lab studies how humans perceive, evaluate, trust, and respond to AI agents, especially where the agent economy overlaps with the human economy. This is an important supporting empirical line of work rather than the lab's sole defining identity. It includes:
 
 - acceptance of AI systems in decision environments;
 - perception of AI-generated content;
 - trust in AI versus human advisors;
 - representational and demographic concerns in how people respond to agents.
 
-This line of work is especially important as AI systems become more visible in labor, communication, and service settings.
-
-### 4. Methodology, benchmarks, and research quality
+### Methodology, benchmarks, research workflow, and research quality
 
 The lab develops rigorous methodologies for studying agents and human-agent systems in a field that is growing quickly but often lacks consistency and reproducibility. This includes:
 
-- benchmark design;
 - experimental methodology;
 - replication and reproducibility standards;
 - better ways to identify and interpret bias;
-- methods for comparing agent behavior to human behavior.
-
-This work is central to the lab's public-benefit value. The lab is not only producing findings, but helping define how the field should study these questions well.
+- methods for comparing agent behavior to human behavior;
+- modern research workflows and operational practices that improve study execution, documentation, and reliability.
 
 ## Who the lab serves
 
@@ -98,18 +96,15 @@ The lab's work is intended to benefit:
 
 - researchers in economics, behavioral science, AI, and adjacent fields;
 - students who want to participate in rigorous AI-related research;
-- policymakers and institutions trying to understand the social and economic effects of AI agents;
-- journalists, educators, and public audiences seeking credible research and interpretation;
-- philanthropic and public-interest organizations supporting responsible AI research.
+- public-interest institutions, including policymakers, educators, and philanthropic organizations, that need credible analysis of AI's economic effects.
 
-## What the lab produces
+## Primary outputs
 
 The lab is expected to produce:
 
-- academic papers and working papers;
+- academic papers and working papers as the primary output;
 - public research summaries and explainers;
-- datasets and benchmarks where appropriate;
-- methodological notes and reproducibility guidance;
+- methodological notes, reproducibility guidance, and research workflow materials;
 - lectures, workshops, and public events;
 - student-engaged research opportunities.
 
@@ -117,64 +112,52 @@ The lab is expected to produce:
 
 The lab's first year should be framed around a focused and credible initial agenda rather than a broad platform.
 
-### Priority 1. Publish current research
+### Priority 1. Finish and submit current papers
 
 The lab aims to revise, submit, and publicly disseminate existing work, including:
 
 - `Model Personality Trumps Persona Prompting: Evidence from Controlled Prompting Experiments`
 - `AI or Not? Human Inability to Reliably Detect AI-Generated Content`
 
-These projects help establish the lab's credibility and illustrate its interest in both model behavior and human perception.
+These projects help establish the lab's credibility and reinforce that papers are the lab's clearest core output.
 
-### Priority 2. Complete the AI-or-Not pilot and experimental preparation
+### Priority 2. Build modern research workflow and operations
 
-The lab aims to complete the AI-or-Not pilot and secure IRB approval for the related experiment. This creates a concrete path toward human-subjects research on perception, trust, and human interaction with AI-generated outputs.
+The lab aims to build a strong internal research workflow that supports a paper-producing lab, including reproducible experimentation, documentation standards, project tracking, research assistance processes, and lightweight operational systems that make future studies easier to run and replicate.
 
-### Priority 3. Define the research agenda on LLMs as economic agents
+### Priority 3. Launch the next paper pipeline
 
-The lab aims to develop a structured research agenda on LLMs as economic agents, including methodology, benchmarks, and questions around preferences, bias, and agent-to-agent behavior.
+The lab aims to complete the AI-or-Not pilot, prepare human-subjects work where appropriate, and launch 1 to 2 next paper-ready projects on LLMs as economic agents, including preferences, bias, and agent-to-agent behavior.
+
+In plain terms, the emerging agent economy refers to settings where language models and AI agents do not merely assist humans, but participate in decision-making, interaction, negotiation, recommendation, and other economically relevant processes.
 
 ## Representative topics and paper directions
 
-### Survey / human versus LLM comparison
+### Preferences, representation, and decision-making
 
 - Comparing Survey Design Bias Effects Across Humans and Language Models
 - Who Do Language Models Represent? Evidence from Human-LLM Survey Response Comparisons
-- Do Language Models Exhibit Gender, Race, and Other Social Biases by Default?
-- Log Probabilities as a Tool for Inferring Preferences in Language Models
-
-### Methodology / reproducibility
-
-- Reproducibility in LLM-Based Studies: The Effects of Batching, Sampling, and Inference Configuration
-- Towards Reproducibility in LLM Research: A Multi-Paper Replication Study and Experimental Guidelines
-
-### Preferences and decision theory
-
 - Extracting Revealed vs Stated Preferences in Language Models
 - Preference Inference in LLMs Using Choice and Log Probability Signals
 
-### Agent-agent systems
+### Multi-agent systems and economic interaction
 
 - Price Formation in Multi-Agent Language Model Markets
 - Evolution of Strategy and Knowledge in Repeated Negotiation Games with Language Models
 
-### Human-agent interaction
+### Human-agent interaction and trust
 
 - "Talk to a Human": Acceptance of AI Agents in Call Centers Across System Architectures
 - Trust in AI vs Human Advisors: Evidence from Controlled Decision Tasks
 
-### Misinformation and development
+### Research methods and reproducibility
 
-- Susceptibility to AI-Generated Misinformation in Low-Information Environments: Evidence from Text, Image, and Video Stimuli
-- Detection Gaps and Belief Formation: Effects of AI-Generated Political Content on User Perceptions
-
-### Culture / language shift
-
-- AI Speak: Convergence of Human Writing Toward Language Model Style in SAT, GRE, and GMAT Essays
+- Reproducibility in LLM-Based Studies: The Effects of Batching, Sampling, and Inference Configuration
+- Towards Reproducibility in LLM Research: A Multi-Paper Replication Study and Experimental Guidelines
 
 ## Collaboration strategy
 
-The lab should collaborate with both academia and industry, but it should be careful about how those collaborations are framed.
+The lab should collaborate with both academia and industry, but those collaborations must be structured carefully.
 
 ### Academic collaborations
 
@@ -192,7 +175,7 @@ Industry collaboration may be valuable because frontier knowledge about agentic 
 However, the lab should state clearly that:
 
 - collaborations must preserve research independence;
-- private firms should not control conclusions or publication decisions;
+- private firms may provide data access, domain context, or technical feedback, but they should not control conclusions or publication decisions;
 - the lab is not conducting paid private-client research;
 - sponsorship should support public-interest research rather than private commercial advantage.
 
@@ -208,19 +191,20 @@ Students may participate as:
 - workshop participants;
 - coauthors where appropriate.
 
-This strengthens the lab's educational mission and provides a clear answer to why the work belongs in a nonprofit setting.
+This strengthens the lab's educational mission and reinforces why the work belongs in a nonprofit setting.
 
 ## Fundraising narrative
 
-The strongest fundraising case is not simply that AI is important. It is that the emerging agent economy is economically significant, methodologically underdeveloped, and in need of independent public-interest research.
+The strongest fundraising case is not simply that AI is important. It is that the emerging agent economy is economically significant, methodologically underdeveloped, and in need of independent public-interest research that is openly disseminated and not shaped by private commercial incentives.
 
 The lab's funding narrative should emphasize:
 
-- independent research on a rapidly growing and socially important domain;
-- rigorous methodology in an area where standards are still forming;
+- independent scholarship on a rapidly growing and socially important domain;
+- openly disseminated papers and public research outputs;
+- rigorous methods and strong research workflow in an area where standards are still forming;
 - educational value through student engagement;
-- public dissemination of findings;
-- the need for noncommercial, credible analysis of systems with broad economic effects.
+- the need for noncommercial, credible analysis of systems with broad economic effects;
+- contribution to better research standards and operating practices in a fast-moving field.
 
 ## Budget framing
 
@@ -241,7 +225,7 @@ The lean budget structure can be described in three tiers.
 ### Excellent: high-output lean lab
 
 - `$75k-$120k` per year
-- supports larger experiments, more visible events, and stronger field presence
+- supports larger experiments and a stronger publication pipeline
 
 The major funding needs are:
 
@@ -251,21 +235,3 @@ The major funding needs are:
 - travel;
 - workshops and events;
 - light research support or contractors where necessary.
-
-## Short public-facing version
-
-`Economics of Generative AI Research Lab studies how large language models and AI agents affect economic behavior, decision-making, and institutions. We conduct independent educational and scientific research on agent preferences, agent-to-agent systems, and human-agent interaction, while developing rigorous methods, datasets, and benchmarks for a rapidly emerging field.`
-
-## Short donor-facing version
-
-`We are building an independent nonprofit research lab focused on the economics of generative AI and the emerging agent economy. Our goal is to produce rigorous, public-interest research on how AI agents behave, how they interact with one another and with humans, and how these interactions will shape modern economies. We also aim to strengthen research quality in a fast-growing field by developing methods, benchmarks, and student-engaged research programs.`
-
-## Open strategic questions
-
-These questions still need sharper answers over time:
-
-- How broad should the lab remain versus specializing early in LLMs as economic agents?
-- How much of the portfolio should be human-subjects work versus agent simulation work?
-- How should industry collaboration be structured without creating private-benefit concerns?
-- What is the clearest public-charity funding story in the first 2 years?
-- Which outputs should define the lab most strongly: papers, benchmarks, public education, or field-building events?

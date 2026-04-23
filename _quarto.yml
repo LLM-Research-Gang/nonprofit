@@ -25,7 +25,6 @@ book:
       chapters:
         - submissions/irs/02_form_1023_activity_narrative.qmd
         - submissions/irs/03_form_1023_officers_directors_template.qmd
-        - submissions/irs/05_internal_activity_table.qmd
         - submissions/irs/04_budget.qmd
     - part: "Other"
       chapters:

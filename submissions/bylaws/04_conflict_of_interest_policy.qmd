@@ -41,14 +41,19 @@ The Board may approve the transaction only if:
 
 A voting member of the Board who receives compensation from the corporation may provide factual information regarding compensation arrangements but shall not vote on that person's own compensation.
 
-## 8. Annual statements
+## 8. Acknowledgment and annual update
 
-Each covered person shall annually sign a statement affirming that the person:
+Each covered person shall sign an acknowledgment affirming that the person:
 
 - received a copy of this policy;
 - read and understands the policy;
 - agrees to comply with the policy; and
 - understands that the corporation must operate in a manner consistent with its charitable and tax-exempt purposes.
+
+Each covered person shall also provide an annual written update confirming either:
+
+- that there are no changes to prior disclosures; or
+- any new actual, potential, or apparent conflicts of interest.
 
 ## 9. Violations
 
@@ -63,13 +68,15 @@ The minutes of Board and committee meetings shall contain:
 - the action taken to determine whether a conflict existed;
 - the final decision and vote.
 
-## Annual disclosure form
+## Acknowledgment and annual disclosure update form
 
 Name: `[NAME]`
 
 Role: `[ROLE]`
 
-Disclosed entities / relationships: `[LIST OR NONE]`
+Disclosure status: `[NO CHANGES / UPDATED DISCLOSURES ATTACHED]`
+
+Disclosed entities / relationships: `[LIST, ATTACHMENT, OR NONE]`
 
 Signature: `____________________________`
 

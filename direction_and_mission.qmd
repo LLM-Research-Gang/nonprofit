@@ -2,7 +2,7 @@
 
 ## Working identity
 
-`Economics of Generative AI Research Lab` is a small independent educational and scientific research institute focused on the economic consequences of large language models and the emerging agent economy.
+`Economics of Generative AI Research Lab` is a bespoke independent educational and scientific research institute focused on the economic consequences of large language models and the emerging agent economy.
 
 Public-facing brand:
 

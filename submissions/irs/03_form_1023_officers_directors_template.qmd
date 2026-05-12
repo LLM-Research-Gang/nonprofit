@@ -7,8 +7,8 @@ Use this as the working attachment for IRS filing and internal approvals.
 | Name | Title | Mailing address | Average hours/week | Compensation | Related to another insider? |
 |---|---|---|---:|---:|---|
 | `Nikita Tkachenko` | President / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
-| `Jake Cosgrove` | Secretary / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
-| `Alessandsa Cassar` | Treasurer / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
+| `Jake Cosgrove` | Secretary / Treasurer / Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
+| `Parsa Rahimi` | Director | `320B 2nd Ave, San Francisco, California 94118` | `[HOURS]` | `0` | `No` |
 
 ## Notes to complete before filing
 

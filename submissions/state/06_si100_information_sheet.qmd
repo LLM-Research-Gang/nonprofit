@@ -16,7 +16,7 @@ Official filing hub:
 - California street address, if different: `Same as above`
 - Chief Executive Officer name/address: `Nikita Tkachenko / 320B 2nd Ave, San Francisco, California 94118`
 - Secretary name/address: `Jake Cosgrove / 320B 2nd Ave, San Francisco, California 94118`
-- Chief Financial Officer name/address: `Alessandsa Cassar / 320B 2nd Ave, San Francisco, California 94118`
+- Chief Financial Officer name/address: `Jake Cosgrove / 320B 2nd Ave, San Francisco, California 94118`
 - Agent for service of process: `Nikita Tkachenko / 320B 2nd Ave, San Francisco, California 94118`
 
 ## Timing

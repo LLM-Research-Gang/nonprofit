@@ -32,7 +32,7 @@ RESOLVED, that the following persons are elected to the offices set forth opposi
 
 - President: `Nikita Tkachenko`
 - Secretary: `Jake Cosgrove`
-- Treasurer: `Alessandsa Cassar`
+- Treasurer: `Jake Cosgrove`
 
 ### 6. Banking authority
 
@@ -68,4 +68,4 @@ Director signatures:
 
 `__________________________________`  `Jake Cosgrove`
 
-`__________________________________`  `Alessandsa Cassar`
+`__________________________________`  `Parsa Rahimi`

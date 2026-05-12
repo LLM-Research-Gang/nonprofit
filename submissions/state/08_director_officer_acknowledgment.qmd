@@ -17,8 +17,8 @@ Each undersigned individual acknowledges and agrees as follows:
 ## Roles
 
 - `Nikita Tkachenko` - `Director, President`
-- `Jake Cosgrove` - `Director, Secretary`
-- `Alessandsa Cassar` - `Director, Treasurer`
+- `Jake Cosgrove` - `Director, Secretary, Treasurer`
+- `Parsa Rahimi` - `Director`
 
 ## Role summary
 
@@ -63,4 +63,4 @@ Date: `[DATE]`
 
 `__________________________________`  `Jake Cosgrove`
 
-`__________________________________`  `Alessandsa Cassar`
+`__________________________________`  `Parsa Rahimi`
